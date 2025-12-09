@@ -18,7 +18,7 @@ class answer:
             #self.answer_text = f"Too few relevant annotations found {len(self.hints.results)} {f"({self.QUERY.hints.results[0].narr_text})" if len(self.hints.results) == 1 else ''}."
             self.answer_text = "Insufficient information to answer the question."
             return
-            
+
         SYSTEM_PROMPT = "You are an AI assistant that helps people find information efficiently. " + \
             "You will be provided with a question and a set of relevant annotations. " + \
             "Use the provided annotations to answer the question as accurately as possible. " + \
@@ -210,7 +210,7 @@ class anno:
 
     def run(self):
         from tqdm import tqdm
-        #self.progress = tqdm(total=len(self))
+        self.progress = tqdm(total=len(self))
 
         self.objects_retrieval["query_list"].run()
         self.people_retrieval["query_list"].run()
@@ -276,8 +276,8 @@ class annos:
         t_start, t_this = time.time(), time.time()
         cnt = 0
         from tqdm import tqdm
-        #for key, anno_obj in tqdm(self.annos_data.items()):
-        for key, anno_obj in (self.annos_data.items()):
+        for key, anno_obj in tqdm(self.annos_data.items()):
+        #for key, anno_obj in (self.annos_data.items()):
             anno_obj.run()
             anno_obj.save(os.path.join(self.out_folder, f"{key}_annotations.json"))
             cnt += len(anno_obj)
