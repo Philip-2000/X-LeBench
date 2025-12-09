@@ -14,18 +14,21 @@ class answer:
         return self.QUERY.LLM
 
     def run(self):
-        if len(self.hints.results) <= 1:
-            self.answer_text = f"Too few relevant annotations found {len(self.hints.results)} {f"({self.QUERY.hints.results[0].narr_text})" if len(self.hints.results) == 1 else ''}."
+        if len(self.hints.results) < 1:
+            #self.answer_text = f"Too few relevant annotations found {len(self.hints.results)} {f"({self.QUERY.hints.results[0].narr_text})" if len(self.hints.results) == 1 else ''}."
+            self.answer_text = "Insufficient information to answer the question."
             return
+            
         SYSTEM_PROMPT = "You are an AI assistant that helps people find information efficiently. " + \
             "You will be provided with a question and a set of relevant annotations. " + \
-            "Use the provided annotations to answer the question as accurately as possible. "
+            "Use the provided annotations to answer the question as accurately as possible. " + \
+            "If the annotations do not contain enough information to answer the question, respond with 'Insufficient information to answer the question.' " + \
+            "Based on the annotations, please answer the question concisely and directly, do not include any additional information."
 
         USER_PROMPT = "The question is " + self.QUERY.query_text + "\n" + \
             "The annotations near the time are: \n" + \
             "\n".join([ n.narr_text for n in self.QUERY.hints.results ]) + "\n" + \
-            "Based on the annotations, please answer the question concisely and directly, do not include any additional information."
-
+            
         self.answer_text = self.LLM(USER_PROMPT, system_prompt=SYSTEM_PROMPT)
 
     def to_dict(self):
