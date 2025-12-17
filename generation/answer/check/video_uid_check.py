@@ -9,7 +9,8 @@ SIM_DIR = Path(script.in_folder) #Path('/mnt/data/raw_data/X-LeBench/simulation_
 FULL_SCALE_DIR = Path(script.v_folder) #Path('/mnt/data/raw_data/Ego4d/v2/full_scale')
 MANIFEST_CSV = FULL_SCALE_DIR / 'manifest.csv'
 REPORT_JSON = Path(os.path.dirname(__file__)) / 'report.json'
-
+LEN_JSON = Path(os.path.dirname(__file__)) / 'video_len.json'
+LENS = json.load(open(LEN_JSON, 'r', encoding='utf-8'))
 
 def load_manifest_uids(manifest_csv: Path) -> set:
     return set([f[:-4] for f in os.listdir(FULL_SCALE_DIR) if f.endswith('.mp4')])
@@ -53,16 +54,29 @@ def extract_simulation_uids(json_path: Path) -> list:
         dur_s.append(end_s - start_s)
     return result, dur_s
 
+def hhmmss2sec(hhmmss: str) -> int:
+    parts = hhmmss.split(':')
+    if len(parts) != 3:
+        return 0
+    try:
+        hours = int(parts[0])
+        minutes = int(parts[1])
+        seconds = int(parts[2])
+        return hours * 3600 + minutes * 60 + seconds
+    except ValueError:
+        return 0
+
 def time_check(uid, dur_s):
     from decord import VideoReader, cpu
     video_path = FULL_SCALE_DIR / f"{uid}.mp4"
     if not video_path.exists():
         return False, 0
     try:
-        vr = VideoReader(str(video_path), ctx=cpu(0))
-        total_frames = len(vr)
-        fps = vr.get_avg_fps()
-        video_duration = total_frames / fps
+        # vr = VideoReader(str(video_path), ctx=cpu(0))
+        # total_frames = len(vr)
+        # fps = vr.get_avg_fps()
+        # video_duration = total_frames / fps
+        video_duration = hhmmss2sec(LENS[uid])
         expected_duration = dur_s
         is_match = (video_duration > expected_duration) or (video_duration < expected_duration + 59.9)
         return is_match, video_duration
@@ -95,13 +109,12 @@ def main():
         almost_all_present = (total > 0 and ratio >= 0.9 and not all_present)
 
         for uid, dur in zip(uids, dur_s):
-            break #this is too slow to check all videos
             if uid in manifest_uids:
                 match, video_dur = time_check(uid, dur)
                 if not match:
                     print(f"Time mismatch for UID {uid} in file {jf.name}: expected {dur}s, got {video_dur:.2f}s")
-                else:
-                    print(f"Time match for UID {uid} in file {jf.name}: expected {dur}s, got {video_dur:.2f}s")
+                #else:
+                #    print(f"Time match for UID {uid} in file {jf.name}: expected {dur}s, got {video_dur:.2f}s")
 
         #full_second is the second part of the end time of last simulations item minus the start time of the first simulations item
         full_second = 0
@@ -115,7 +128,7 @@ def main():
             end_sec = hour_min2sec(end_time)
             if end_sec < start_sec:
                 end_sec = end_sec + 24 * 3600  # handle next day case
-            full_second = end_sec - start_sec
+            full_second = end_sec - start_sec + 59
         full_hour_min = sec2hour_min(full_second)
 
         #dense_second is the summation of all simulations durations
@@ -125,11 +138,11 @@ def main():
                 data = json.load(f)
             sims = data.get('simulations', [])
             for s in sims:
-                start_time = s.get('start_time', '00:00')
-                end_time = s.get('end_time', '00:00')
-                start_sec = hour_min2sec(start_time)
-                end_sec = hour_min2sec(end_time)
-                dense_second += max(0, end_sec - start_sec)+60 #we use such value but not video_dur, because that one is too slow to obtain,
+                # start_time = s.get('start_time', '00:00')
+                # end_time = s.get('end_time', '00:00')
+                # start_sec = hour_min2sec(start_time)
+                # end_sec = hour_min2sec(end_time)
+                dense_second += hhmmss2sec(LENS[s["video_uid"]]) #max(0, end_sec - start_sec)+60
         except Exception:
             dense_second = 0
         dense_hour_min = sec2hour_min(dense_second)

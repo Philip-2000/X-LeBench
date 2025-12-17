@@ -45,7 +45,7 @@ plt.ylabel('dense_second')
 plt.xlim(0, 75000)
 plt.ylim(0, 75000)
 #draw x=y line
-plt.plot([0, 75000], [0, 75000], color='red', linestyle='--', linewidth=1, label='y=x')
+plt.plot([0, 75000], [0, 75000], color='red', linestyle='--', linewidth=1, label='Always On')
 plt.title('full_second vs dense_second (per_file)')
 plt.grid(True, linestyle=':', alpha=0.4)
 
