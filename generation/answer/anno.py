@@ -27,8 +27,8 @@ class answer:
 
         USER_PROMPT = "The question is " + self.QUERY.query_text + "\n" + \
             "The annotations near the time are: \n" + \
-            "\n".join([ n.narr_text for n in self.QUERY.hints.results ]) + "\n" + \
-            
+            "\n".join([ n.narr_text for n in self.QUERY.hints.results ]) + "\n"
+
         self.answer_text = self.LLM(USER_PROMPT, system_prompt=SYSTEM_PROMPT)
 
     def to_dict(self):
@@ -245,7 +245,7 @@ class annos:
         try:
             from MyLm import call
             from llm import MyLLM, MyLL
-            LLM = MyLL(model_path)
+            LLM = MyLLM(model_path)
         except:
             from llm import DeepSeekLLM
             LLM = DeepSeekLLM()
