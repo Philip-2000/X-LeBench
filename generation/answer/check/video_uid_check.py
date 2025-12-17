@@ -8,7 +8,7 @@ import script
 SIM_DIR = Path(script.in_folder) #Path('/mnt/data/raw_data/X-LeBench/simulation_annotation')
 FULL_SCALE_DIR = Path(script.v_folder) #Path('/mnt/data/raw_data/Ego4d/v2/full_scale')
 MANIFEST_CSV = FULL_SCALE_DIR / 'manifest.csv'
-REPORT_JSON = SIM_DIR.parent / 'report.json'
+REPORT_JSON = Path(os.path.dirname(__file__)) / 'report.json'
 
 
 def load_manifest_uids(manifest_csv: Path) -> set:
@@ -174,7 +174,7 @@ def main():
     with open(REPORT_JSON, 'w', encoding='utf-8') as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
 
-    UIDS_TXT = SIM_DIR.parent / 'video_uids.txt'
+    UIDS_TXT = Path(os.path.dirname(__file__)) / 'video_uids.txt'
     with open(UIDS_TXT, 'w', encoding='utf-8') as f:
         for uid in uids_count.keys():
             f.write(f"{uid}\n")
