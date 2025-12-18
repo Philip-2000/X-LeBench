@@ -31,7 +31,7 @@ def sec2hour_min(total_sec: int) -> str:
     """Convert total seconds to 'HH:MM' string."""
     hours = total_sec // 3600
     minutes = (total_sec % 3600) // 60
-    return f"{hours:02}:{minutes:02}"
+    return f"{int(hours):02}:{int(minutes):02}"
 
 def extract_simulation_uids(json_path: Path) -> list:
     try:
@@ -61,7 +61,7 @@ def hhmmss2sec(hhmmss: str) -> int:
     try:
         hours = int(parts[0])
         minutes = int(parts[1])
-        seconds = int(parts[2])
+        seconds = float(parts[2])
         return hours * 3600 + minutes * 60 + seconds
     except ValueError:
         return 0

@@ -20,8 +20,8 @@
       "full_hour_min": "15:06",
       "Full_second": 54419,
       "dense_hour_min": "00:22",
-      "dense_second": 1367,
-      "dense_ratio": 0.0251
+      "dense_second": 1369.75,
+      "dense_ratio": 0.0252
     },
     {
       "file": "simulation_0120dffb_2c1b4db6_annotation.json",
@@ -35,7 +35,7 @@
       "full_hour_min": "13:51",
       "Full_second": 49919,
       "dense_hour_min": "00:27",
-      "dense_second": 1620,
+      "dense_second": 1621.5499999999997,
       "dense_ratio": 0.0325
     },
     {
@@ -50,7 +50,7 @@
       "full_hour_min": "16:19",
       "Full_second": 58799,
       "dense_hour_min": "00:28",
-      "dense_second": 1697,
+      "dense_second": 1698.28,
       "dense_ratio": 0.0289
     },
     {
@@ -65,7 +65,7 @@
       "full_hour_min": "14:42",
       "Full_second": 52979,
       "dense_hour_min": "00:34",
-      "dense_second": 2066,
+      "dense_second": 2068.35,
       "dense_ratio": 0.039
     },
     {
@@ -80,7 +80,7 @@
       "full_hour_min": "16:06",
       "Full_second": 58019,
       "dense_hour_min": "00:38",
-      "dense_second": 2327,
+      "dense_second": 2328.39,
       "dense_ratio": 0.0401
     },
     {
@@ -95,8 +95,8 @@
       "full_hour_min": "14:17",
       "Full_second": 51479,
       "dense_hour_min": "00:39",
-      "dense_second": 2365,
-      "dense_ratio": 0.0459
+      "dense_second": 2366.88,
+      "dense_ratio": 0.046
     },
     {
       "file": "simulation_79e4ded6_4e5b589a_annotation.json",
@@ -110,7 +110,7 @@
       "full_hour_min": "14:01",
       "Full_second": 50519,
       "dense_hour_min": "00:43",
-      "dense_second": 2595,
+      "dense_second": 2596.6800000000003,
       "dense_ratio": 0.0514
     },
     {
@@ -125,7 +125,7 @@
       "full_hour_min": "14:32",
       "Full_second": 52379,
       "dense_hour_min": "00:46",
-      "dense_second": 2797,
+      "dense_second": 2799.11,
       "dense_ratio": 0.0534
     },
     {
@@ -140,8 +140,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "00:47",
-      "dense_second": 2821,
-      "dense_ratio": 0.0491
+      "dense_second": 2822.95,
+      "dense_ratio": 0.0492
     },
     {
       "file": "simulation_d1ce4e43_aaaa3cee_annotation.json",
@@ -155,8 +155,8 @@
       "full_hour_min": "11:47",
       "Full_second": 42479,
       "dense_hour_min": "00:48",
-      "dense_second": 2885,
-      "dense_ratio": 0.0679
+      "dense_second": 2886.58,
+      "dense_ratio": 0.068
     },
     {
       "file": "simulation_1c2c91d6_b7c453e0_annotation.json",
@@ -170,8 +170,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "00:48",
-      "dense_second": 2891,
-      "dense_ratio": 0.0503
+      "dense_second": 2893.1800000000003,
+      "dense_ratio": 0.0504
     },
     {
       "file": "simulation_e66ab513_cb169561_annotation.json",
@@ -185,7 +185,7 @@
       "full_hour_min": "12:49",
       "Full_second": 46199,
       "dense_hour_min": "00:49",
-      "dense_second": 2955,
+      "dense_second": 2956.1800000000003,
       "dense_ratio": 0.064
     },
     {
@@ -200,7 +200,7 @@
       "full_hour_min": "16:36",
       "Full_second": 59819,
       "dense_hour_min": "00:50",
-      "dense_second": 3045,
+      "dense_second": 3046.8900000000003,
       "dense_ratio": 0.0509
     },
     {
@@ -215,8 +215,8 @@
       "full_hour_min": "13:52",
       "Full_second": 49979,
       "dense_hour_min": "01:57",
-      "dense_second": 7046,
-      "dense_ratio": 0.141
+      "dense_second": 7050.949999999999,
+      "dense_ratio": 0.1411
     },
     {
       "file": "simulation_47e8a0bd_85e35d62_annotation.json",
@@ -230,8 +230,8 @@
       "full_hour_min": "15:41",
       "Full_second": 56519,
       "dense_hour_min": "01:58",
-      "dense_second": 7122,
-      "dense_ratio": 0.126
+      "dense_second": 7126.9,
+      "dense_ratio": 0.1261
     },
     {
       "file": "simulation_3a95e279_92833f83_annotation.json",
@@ -245,8 +245,8 @@
       "full_hour_min": "15:05",
       "Full_second": 54359,
       "dense_hour_min": "02:04",
-      "dense_second": 7481,
-      "dense_ratio": 0.1376
+      "dense_second": 7483.66,
+      "dense_ratio": 0.1377
     },
     {
       "file": "simulation_96808b70_b5f45fb5_annotation.json",
@@ -259,9 +259,9 @@
       "missing_uids": [],
       "full_hour_min": "15:09",
       "Full_second": 54599,
-      "dense_hour_min": "00:55",
-      "dense_second": 3359,
-      "dense_ratio": 0.0615
+      "dense_hour_min": "00:56",
+      "dense_second": 3360.7799999999997,
+      "dense_ratio": 0.0616
     },
     {
       "file": "simulation_f4c5d2ad_1e0c0764_annotation.json",
@@ -275,7 +275,7 @@
       "full_hour_min": "13:51",
       "Full_second": 49919,
       "dense_hour_min": "00:57",
-      "dense_second": 3435,
+      "dense_second": 3436.7799999999997,
       "dense_ratio": 0.0688
     },
     {
@@ -290,7 +290,7 @@
       "full_hour_min": "13:17",
       "Full_second": 47879,
       "dense_hour_min": "00:57",
-      "dense_second": 3441,
+      "dense_second": 3441.85,
       "dense_ratio": 0.0719
     },
     {
@@ -305,8 +305,8 @@
       "full_hour_min": "13:04",
       "Full_second": 47099,
       "dense_hour_min": "02:09",
-      "dense_second": 7773,
-      "dense_ratio": 0.165
+      "dense_second": 7778.750000000001,
+      "dense_ratio": 0.1652
     },
     {
       "file": "simulation_c22303c0_fa367fd3_annotation.json",
@@ -320,8 +320,8 @@
       "full_hour_min": "16:46",
       "Full_second": 60419,
       "dense_hour_min": "03:40",
-      "dense_second": 13220,
-      "dense_ratio": 0.2188
+      "dense_second": 13226.990000000002,
+      "dense_ratio": 0.2189
     },
     {
       "file": "simulation_a24e00e4_20b07d67_annotation.json",
@@ -335,7 +335,7 @@
       "full_hour_min": "15:55",
       "Full_second": 57359,
       "dense_hour_min": "02:13",
-      "dense_second": 8022,
+      "dense_second": 8026.040000000001,
       "dense_ratio": 0.1399
     },
     {
@@ -350,7 +350,7 @@
       "full_hour_min": "14:17",
       "Full_second": 51479,
       "dense_hour_min": "01:00",
-      "dense_second": 3645,
+      "dense_second": 3646.51,
       "dense_ratio": 0.0708
     },
     {
@@ -365,8 +365,8 @@
       "full_hour_min": "14:04",
       "Full_second": 50699,
       "dense_hour_min": "02:17",
-      "dense_second": 8261,
-      "dense_ratio": 0.1629
+      "dense_second": 8265.140000000001,
+      "dense_ratio": 0.163
     },
     {
       "file": "simulation_668825cc_02a0b20b_annotation.json",
@@ -380,7 +380,7 @@
       "full_hour_min": "14:07",
       "Full_second": 50879,
       "dense_hour_min": "01:01",
-      "dense_second": 3703,
+      "dense_second": 3704.68,
       "dense_ratio": 0.0728
     },
     {
@@ -395,7 +395,7 @@
       "full_hour_min": "16:26",
       "Full_second": 59219,
       "dense_hour_min": "01:02",
-      "dense_second": 3735,
+      "dense_second": 3736.6499999999996,
       "dense_ratio": 0.0631
     },
     {
@@ -410,8 +410,8 @@
       "full_hour_min": "15:47",
       "Full_second": 56879,
       "dense_hour_min": "03:54",
-      "dense_second": 14058,
-      "dense_ratio": 0.2472
+      "dense_second": 14066.600000000002,
+      "dense_ratio": 0.2473
     },
     {
       "file": "simulation_cd358fec_0cec3fda_annotation.json",
@@ -425,7 +425,7 @@
       "full_hour_min": "14:56",
       "Full_second": 53819,
       "dense_hour_min": "01:02",
-      "dense_second": 3766,
+      "dense_second": 3768.1800000000003,
       "dense_ratio": 0.07
     },
     {
@@ -440,8 +440,8 @@
       "full_hour_min": "16:41",
       "Full_second": 60119,
       "dense_hour_min": "03:56",
-      "dense_second": 14205,
-      "dense_ratio": 0.2363
+      "dense_second": 14211.340000000002,
+      "dense_ratio": 0.2364
     },
     {
       "file": "simulation_55cf7aef_6d23b111_annotation.json",
@@ -455,8 +455,8 @@
       "full_hour_min": "12:57",
       "Full_second": 46679,
       "dense_hour_min": "02:22",
-      "dense_second": 8552,
-      "dense_ratio": 0.1832
+      "dense_second": 8556.97,
+      "dense_ratio": 0.1833
     },
     {
       "file": "simulation_a24e00e4_0a9f3594_annotation.json",
@@ -470,8 +470,8 @@
       "full_hour_min": "16:57",
       "Full_second": 61079,
       "dense_hour_min": "01:04",
-      "dense_second": 3851,
-      "dense_ratio": 0.063
+      "dense_second": 3853.66,
+      "dense_ratio": 0.0631
     },
     {
       "file": "simulation_2c92746d_d923b33a_annotation.json",
@@ -485,8 +485,8 @@
       "full_hour_min": "15:27",
       "Full_second": 55679,
       "dense_hour_min": "02:27",
-      "dense_second": 8831,
-      "dense_ratio": 0.1586
+      "dense_second": 8836.029999999999,
+      "dense_ratio": 0.1587
     },
     {
       "file": "simulation_17f1983c_69ae5eb0_annotation.json",
@@ -500,8 +500,8 @@
       "full_hour_min": "12:42",
       "Full_second": 45779,
       "dense_hour_min": "01:06",
-      "dense_second": 3983,
-      "dense_ratio": 0.087
+      "dense_second": 3985.8500000000004,
+      "dense_ratio": 0.0871
     },
     {
       "file": "simulation_87e5be9e_47dae672_annotation.json",
@@ -515,7 +515,7 @@
       "full_hour_min": "15:43",
       "Full_second": 56639,
       "dense_hour_min": "01:06",
-      "dense_second": 4004,
+      "dense_second": 4005.29,
       "dense_ratio": 0.0707
     },
     {
@@ -530,8 +530,8 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "04:12",
-      "dense_second": 15170,
-      "dense_ratio": 0.267
+      "dense_second": 15173.670000000002,
+      "dense_ratio": 0.2671
     },
     {
       "file": "simulation_e7ec1eff_58daf597_annotation.json",
@@ -545,8 +545,8 @@
       "full_hour_min": "12:33",
       "Full_second": 45239,
       "dense_hour_min": "01:07",
-      "dense_second": 4054,
-      "dense_ratio": 0.0896
+      "dense_second": 4055.82,
+      "dense_ratio": 0.0897
     },
     {
       "file": "simulation_29cf15e4_0e6b7c42_annotation.json",
@@ -560,8 +560,8 @@
       "full_hour_min": "11:19",
       "Full_second": 40799,
       "dense_hour_min": "02:32",
-      "dense_second": 9152,
-      "dense_ratio": 0.2243
+      "dense_second": 9155.630000000003,
+      "dense_ratio": 0.2244
     },
     {
       "file": "simulation_8f70bfdb_5caf3028_annotation.json",
@@ -575,8 +575,8 @@
       "full_hour_min": "14:10",
       "Full_second": 51059,
       "dense_hour_min": "02:32",
-      "dense_second": 9155,
-      "dense_ratio": 0.1793
+      "dense_second": 9158.64,
+      "dense_ratio": 0.1794
     },
     {
       "file": "simulation_242ea26f_49898f3d_annotation.json",
@@ -590,8 +590,8 @@
       "full_hour_min": "16:14",
       "Full_second": 58499,
       "dense_hour_min": "04:15",
-      "dense_second": 15333,
-      "dense_ratio": 0.2621
+      "dense_second": 15340.73,
+      "dense_ratio": 0.2622
     },
     {
       "file": "simulation_8ade7a7f_d6fdd581_annotation.json",
@@ -604,9 +604,9 @@
       "missing_uids": [],
       "full_hour_min": "15:44",
       "Full_second": 56699,
-      "dense_hour_min": "02:33",
-      "dense_second": 9238,
-      "dense_ratio": 0.1629
+      "dense_hour_min": "02:34",
+      "dense_second": 9243.23,
+      "dense_ratio": 0.163
     },
     {
       "file": "simulation_5f88557d_dbabae98_annotation.json",
@@ -620,7 +620,7 @@
       "full_hour_min": "10:55",
       "Full_second": 39359,
       "dense_hour_min": "01:09",
-      "dense_second": 4186,
+      "dense_second": 4187.49,
       "dense_ratio": 0.1064
     },
     {
@@ -635,7 +635,7 @@
       "full_hour_min": "16:01",
       "Full_second": 57719,
       "dense_hour_min": "01:09",
-      "dense_second": 4188,
+      "dense_second": 4190.95,
       "dense_ratio": 0.0726
     },
     {
@@ -650,8 +650,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "04:26",
-      "dense_second": 15967,
-      "dense_ratio": 0.2781
+      "dense_second": 15973.359999999999,
+      "dense_ratio": 0.2782
     },
     {
       "file": "simulation_70dc627d_406264ee_annotation.json",
@@ -665,8 +665,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "01:11",
-      "dense_second": 4268,
-      "dense_ratio": 0.0743
+      "dense_second": 4270.58,
+      "dense_ratio": 0.0744
     },
     {
       "file": "simulation_e09fafc7_ec6f847d_annotation.json",
@@ -680,8 +680,8 @@
       "full_hour_min": "15:41",
       "Full_second": 56519,
       "dense_hour_min": "04:27",
-      "dense_second": 16034,
-      "dense_ratio": 0.2837
+      "dense_second": 16039.699999999999,
+      "dense_ratio": 0.2838
     },
     {
       "file": "simulation_693057ad_656e6c2d_annotation.json",
@@ -695,7 +695,7 @@
       "full_hour_min": "16:58",
       "Full_second": 61139,
       "dense_hour_min": "02:42",
-      "dense_second": 9774,
+      "dense_second": 9778.05,
       "dense_ratio": 0.1599
     },
     {
@@ -710,8 +710,8 @@
       "full_hour_min": "15:38",
       "Full_second": 56339,
       "dense_hour_min": "04:31",
-      "dense_second": 16304,
-      "dense_ratio": 0.2894
+      "dense_second": 16311.8,
+      "dense_ratio": 0.2895
     },
     {
       "file": "simulation_1cca9f57_ae06db09_annotation.json",
@@ -725,7 +725,7 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "01:12",
-      "dense_second": 4373,
+      "dense_second": 4374.62,
       "dense_ratio": 0.077
     },
     {
@@ -740,8 +740,8 @@
       "full_hour_min": "12:24",
       "Full_second": 44699,
       "dense_hour_min": "02:47",
-      "dense_second": 10076,
-      "dense_ratio": 0.2254
+      "dense_second": 10079.950000000003,
+      "dense_ratio": 0.2255
     },
     {
       "file": "simulation_16ef3501_05c1d0b9_annotation.json",
@@ -755,8 +755,8 @@
       "full_hour_min": "16:08",
       "Full_second": 58139,
       "dense_hour_min": "02:48",
-      "dense_second": 10110,
-      "dense_ratio": 0.1739
+      "dense_second": 10113.93,
+      "dense_ratio": 0.174
     },
     {
       "file": "simulation_fbe9742d_2557b92a_annotation.json",
@@ -770,8 +770,8 @@
       "full_hour_min": "14:49",
       "Full_second": 53399,
       "dense_hour_min": "02:48",
-      "dense_second": 10123,
-      "dense_ratio": 0.1896
+      "dense_second": 10127.189999999999,
+      "dense_ratio": 0.1897
     },
     {
       "file": "simulation_8efa4df8_329af65b_annotation.json",
@@ -785,23 +785,8 @@
       "full_hour_min": "15:32",
       "Full_second": 55979,
       "dense_hour_min": "02:50",
-      "dense_second": 10233,
-      "dense_ratio": 0.1828
-    },
-    {
-      "file": "simulation_450e5698_6cdd6a8e_annotation.json",
-      "total": 4,
-      "present": 4,
-      "missing": 0,
-      "presence_ratio": 1.0,
-      "all_present": true,
-      "almost_all_present": false,
-      "missing_uids": [],
-      "full_hour_min": "12:08",
-      "Full_second": 43739,
-      "dense_hour_min": "01:15",
-      "dense_second": 4551,
-      "dense_ratio": 0.104
+      "dense_second": 10237.189999999999,
+      "dense_ratio": 0.1829
     },
     {
       "file": "simulation_79e4ded6_a1b8ff8d_annotation.json",
@@ -815,8 +800,23 @@
       "full_hour_min": "15:11",
       "Full_second": 54719,
       "dense_hour_min": "02:50",
-      "dense_second": 10240,
-      "dense_ratio": 0.1871
+      "dense_second": 10243.900000000001,
+      "dense_ratio": 0.1872
+    },
+    {
+      "file": "simulation_450e5698_6cdd6a8e_annotation.json",
+      "total": 4,
+      "present": 4,
+      "missing": 0,
+      "presence_ratio": 1.0,
+      "all_present": true,
+      "almost_all_present": false,
+      "missing_uids": [],
+      "full_hour_min": "12:08",
+      "Full_second": 43739,
+      "dense_hour_min": "01:15",
+      "dense_second": 4553.950000000001,
+      "dense_ratio": 0.1041
     },
     {
       "file": "simulation_e09fafc7_c674912d_annotation.json",
@@ -829,9 +829,9 @@
       "missing_uids": [],
       "full_hour_min": "15:57",
       "Full_second": 57479,
-      "dense_hour_min": "02:50",
-      "dense_second": 10257,
-      "dense_ratio": 0.1784
+      "dense_hour_min": "02:51",
+      "dense_second": 10260.89,
+      "dense_ratio": 0.1785
     },
     {
       "file": "simulation_4eb1d1e7_cecb94af_annotation.json",
@@ -844,8 +844,8 @@
       "missing_uids": [],
       "full_hour_min": "16:10",
       "Full_second": 58259,
-      "dense_hour_min": "02:50",
-      "dense_second": 10259,
+      "dense_hour_min": "02:51",
+      "dense_second": 10261.73,
       "dense_ratio": 0.1761
     },
     {
@@ -860,8 +860,8 @@
       "full_hour_min": "13:29",
       "Full_second": 48599,
       "dense_hour_min": "01:16",
-      "dense_second": 4564,
-      "dense_ratio": 0.0939
+      "dense_second": 4566.08,
+      "dense_ratio": 0.094
     },
     {
       "file": "simulation_3209faf3_fce6c8d0_annotation.json",
@@ -875,7 +875,7 @@
       "full_hour_min": "13:02",
       "Full_second": 46979,
       "dense_hour_min": "01:16",
-      "dense_second": 4565,
+      "dense_second": 4568.09,
       "dense_ratio": 0.0972
     },
     {
@@ -890,7 +890,7 @@
       "full_hour_min": "14:40",
       "Full_second": 52859,
       "dense_hour_min": "01:16",
-      "dense_second": 4571,
+      "dense_second": 4572.82,
       "dense_ratio": 0.0865
     },
     {
@@ -905,7 +905,7 @@
       "full_hour_min": "09:19",
       "Full_second": 33599,
       "dense_hour_min": "01:16",
-      "dense_second": 4588,
+      "dense_second": 4588.73,
       "dense_ratio": 0.1366
     },
     {
@@ -920,8 +920,8 @@
       "full_hour_min": "15:36",
       "Full_second": 56219,
       "dense_hour_min": "04:49",
-      "dense_second": 17345,
-      "dense_ratio": 0.3085
+      "dense_second": 17350.820000000003,
+      "dense_ratio": 0.3086
     },
     {
       "file": "simulation_af7a14dd_3764effd_annotation.json",
@@ -935,7 +935,7 @@
       "full_hour_min": "14:45",
       "Full_second": 53159,
       "dense_hour_min": "01:17",
-      "dense_second": 4633,
+      "dense_second": 4634.55,
       "dense_ratio": 0.0872
     },
     {
@@ -950,8 +950,8 @@
       "full_hour_min": "16:21",
       "Full_second": 58919,
       "dense_hour_min": "02:53",
-      "dense_second": 10435,
-      "dense_ratio": 0.1771
+      "dense_second": 10439.7,
+      "dense_ratio": 0.1772
     },
     {
       "file": "simulation_2fb7d5ca_1fe15c4e_annotation.json",
@@ -965,8 +965,8 @@
       "full_hour_min": "15:21",
       "Full_second": 55319,
       "dense_hour_min": "04:50",
-      "dense_second": 17451,
-      "dense_ratio": 0.3155
+      "dense_second": 17456.93,
+      "dense_ratio": 0.3156
     },
     {
       "file": "simulation_63565db6_deaf9483_annotation.json",
@@ -980,8 +980,8 @@
       "full_hour_min": "15:27",
       "Full_second": 55679,
       "dense_hour_min": "02:54",
-      "dense_second": 10481,
-      "dense_ratio": 0.1882
+      "dense_second": 10485.839999999998,
+      "dense_ratio": 0.1883
     },
     {
       "file": "simulation_6e5714e8_b02f1778_annotation.json",
@@ -995,8 +995,8 @@
       "full_hour_min": "15:06",
       "Full_second": 54419,
       "dense_hour_min": "04:51",
-      "dense_second": 17489,
-      "dense_ratio": 0.3214
+      "dense_second": 17496.43,
+      "dense_ratio": 0.3215
     },
     {
       "file": "simulation_9f544f85_2a96da54_annotation.json",
@@ -1010,7 +1010,7 @@
       "full_hour_min": "15:05",
       "Full_second": 54359,
       "dense_hour_min": "01:17",
-      "dense_second": 4667,
+      "dense_second": 4668.120000000001,
       "dense_ratio": 0.0859
     },
     {
@@ -1025,7 +1025,7 @@
       "full_hour_min": "15:44",
       "Full_second": 56699,
       "dense_hour_min": "02:55",
-      "dense_second": 10521,
+      "dense_second": 10525.48,
       "dense_ratio": 0.1856
     },
     {
@@ -1040,8 +1040,8 @@
       "full_hour_min": "13:47",
       "Full_second": 49679,
       "dense_hour_min": "02:57",
-      "dense_second": 10628,
-      "dense_ratio": 0.2139
+      "dense_second": 10632.900000000001,
+      "dense_ratio": 0.214
     },
     {
       "file": "simulation_42b3cfb8_f65ba654_annotation.json",
@@ -1055,8 +1055,8 @@
       "full_hour_min": "14:47",
       "Full_second": 53279,
       "dense_hour_min": "02:57",
-      "dense_second": 10630,
-      "dense_ratio": 0.1995
+      "dense_second": 10633.25,
+      "dense_ratio": 0.1996
     },
     {
       "file": "simulation_4d431c2c_ab40bd58_annotation.json",
@@ -1070,7 +1070,7 @@
       "full_hour_min": "16:14",
       "Full_second": 58499,
       "dense_hour_min": "02:59",
-      "dense_second": 10785,
+      "dense_second": 10789.419999999998,
       "dense_ratio": 0.1844
     },
     {
@@ -1085,7 +1085,7 @@
       "full_hour_min": "14:20",
       "Full_second": 51659,
       "dense_hour_min": "01:20",
-      "dense_second": 4820,
+      "dense_second": 4821.68,
       "dense_ratio": 0.0933
     },
     {
@@ -1100,8 +1100,8 @@
       "full_hour_min": "06:39",
       "Full_second": 23999,
       "dense_hour_min": "03:01",
-      "dense_second": 10902,
-      "dense_ratio": 0.4543
+      "dense_second": 10904.77,
+      "dense_ratio": 0.4544
     },
     {
       "file": "simulation_6d33ce6f_a7b78cbf_annotation.json",
@@ -1115,8 +1115,8 @@
       "full_hour_min": "16:27",
       "Full_second": 59279,
       "dense_hour_min": "01:20",
-      "dense_second": 4846,
-      "dense_ratio": 0.0817
+      "dense_second": 4848.95,
+      "dense_ratio": 0.0818
     },
     {
       "file": "simulation_0f440f26_0081bbb2_annotation.json",
@@ -1130,8 +1130,8 @@
       "full_hour_min": "14:59",
       "Full_second": 53999,
       "dense_hour_min": "05:03",
-      "dense_second": 18229,
-      "dense_ratio": 0.3376
+      "dense_second": 18236.15,
+      "dense_ratio": 0.3377
     },
     {
       "file": "simulation_2fb7d5ca_6d22e92e_annotation.json",
@@ -1144,9 +1144,9 @@
       "missing_uids": [],
       "full_hour_min": "12:57",
       "Full_second": 46679,
-      "dense_hour_min": "03:02",
-      "dense_second": 10979,
-      "dense_ratio": 0.2352
+      "dense_hour_min": "03:03",
+      "dense_second": 10984.82,
+      "dense_ratio": 0.2353
     },
     {
       "file": "simulation_b413e3e0_59b17eaf_annotation.json",
@@ -1160,7 +1160,7 @@
       "full_hour_min": "15:45",
       "Full_second": 56759,
       "dense_hour_min": "01:21",
-      "dense_second": 4880,
+      "dense_second": 4882.32,
       "dense_ratio": 0.086
     },
     {
@@ -1175,8 +1175,8 @@
       "full_hour_min": "13:47",
       "Full_second": 49679,
       "dense_hour_min": "03:04",
-      "dense_second": 11072,
-      "dense_ratio": 0.2229
+      "dense_second": 11076.449999999997,
+      "dense_ratio": 0.223
     },
     {
       "file": "simulation_89fcc6b1_834a7c83_annotation.json",
@@ -1190,8 +1190,8 @@
       "full_hour_min": "16:05",
       "Full_second": 57959,
       "dense_hour_min": "03:07",
-      "dense_second": 11225,
-      "dense_ratio": 0.1937
+      "dense_second": 11229.56,
+      "dense_ratio": 0.1938
     },
     {
       "file": "simulation_af30f407_923d27fc_annotation.json",
@@ -1205,7 +1205,7 @@
       "full_hour_min": "16:14",
       "Full_second": 58499,
       "dense_hour_min": "01:23",
-      "dense_second": 5002,
+      "dense_second": 5003.8099999999995,
       "dense_ratio": 0.0855
     },
     {
@@ -1220,7 +1220,7 @@
       "full_hour_min": "13:11",
       "Full_second": 47519,
       "dense_hour_min": "01:23",
-      "dense_second": 5031,
+      "dense_second": 5031.92,
       "dense_ratio": 0.1059
     },
     {
@@ -1235,8 +1235,8 @@
       "full_hour_min": "15:04",
       "Full_second": 54299,
       "dense_hour_min": "05:14",
-      "dense_second": 18885,
-      "dense_ratio": 0.3478
+      "dense_second": 18890.810000000005,
+      "dense_ratio": 0.3479
     },
     {
       "file": "simulation_450e5698_7e685694_annotation.json",
@@ -1250,8 +1250,8 @@
       "full_hour_min": "12:01",
       "Full_second": 43319,
       "dense_hour_min": "03:09",
-      "dense_second": 11382,
-      "dense_ratio": 0.2627
+      "dense_second": 11385.880000000005,
+      "dense_ratio": 0.2628
     },
     {
       "file": "simulation_a6e94eba_e3fadcab_annotation.json",
@@ -1265,8 +1265,8 @@
       "full_hour_min": "12:35",
       "Full_second": 45359,
       "dense_hour_min": "01:24",
-      "dense_second": 5077,
-      "dense_ratio": 0.1119
+      "dense_second": 5079.02,
+      "dense_ratio": 0.112
     },
     {
       "file": "simulation_fbe9742d_6b0d2edc_annotation.json",
@@ -1280,8 +1280,8 @@
       "full_hour_min": "13:59",
       "Full_second": 50399,
       "dense_hour_min": "01:24",
-      "dense_second": 5077,
-      "dense_ratio": 0.1007
+      "dense_second": 5079.24,
+      "dense_ratio": 0.1008
     },
     {
       "file": "simulation_c22303c0_71541eb7_annotation.json",
@@ -1295,8 +1295,8 @@
       "full_hour_min": "14:26",
       "Full_second": 52019,
       "dense_hour_min": "03:10",
-      "dense_second": 11428,
-      "dense_ratio": 0.2197
+      "dense_second": 11432.26,
+      "dense_ratio": 0.2198
     },
     {
       "file": "simulation_a4714336_66d30a9a_annotation.json",
@@ -1310,8 +1310,8 @@
       "full_hour_min": "16:02",
       "Full_second": 57779,
       "dense_hour_min": "03:13",
-      "dense_second": 11622,
-      "dense_ratio": 0.2011
+      "dense_second": 11627.53,
+      "dense_ratio": 0.2012
     },
     {
       "file": "simulation_4d431c2c_cccf658e_annotation.json",
@@ -1325,7 +1325,7 @@
       "full_hour_min": "15:35",
       "Full_second": 56159,
       "dense_hour_min": "01:26",
-      "dense_second": 5204,
+      "dense_second": 5206.01,
       "dense_ratio": 0.0927
     },
     {
@@ -1340,8 +1340,8 @@
       "full_hour_min": "16:38",
       "Full_second": 59939,
       "dense_hour_min": "03:15",
-      "dense_second": 11727,
-      "dense_ratio": 0.1956
+      "dense_second": 11730.77,
+      "dense_ratio": 0.1957
     },
     {
       "file": "simulation_3e7df5c1_647da119_annotation.json",
@@ -1355,8 +1355,8 @@
       "full_hour_min": "15:16",
       "Full_second": 55019,
       "dense_hour_min": "01:27",
-      "dense_second": 5250,
-      "dense_ratio": 0.0954
+      "dense_second": 5252.21,
+      "dense_ratio": 0.0955
     },
     {
       "file": "simulation_79aa408f_92b770d0_annotation.json",
@@ -1369,9 +1369,9 @@
       "missing_uids": [],
       "full_hour_min": "15:41",
       "Full_second": 56519,
-      "dense_hour_min": "05:28",
-      "dense_second": 19738,
-      "dense_ratio": 0.3492
+      "dense_hour_min": "05:29",
+      "dense_second": 19745.06,
+      "dense_ratio": 0.3494
     },
     {
       "file": "simulation_a0981bd2_10598606_annotation.json",
@@ -1385,8 +1385,8 @@
       "full_hour_min": "15:09",
       "Full_second": 54599,
       "dense_hour_min": "05:31",
-      "dense_second": 19872,
-      "dense_ratio": 0.364
+      "dense_second": 19879.850000000002,
+      "dense_ratio": 0.3641
     },
     {
       "file": "simulation_5c1dd4c5_ff8c0fd8_annotation.json",
@@ -1400,8 +1400,8 @@
       "full_hour_min": "16:16",
       "Full_second": 58619,
       "dense_hour_min": "03:19",
-      "dense_second": 11940,
-      "dense_ratio": 0.2037
+      "dense_second": 11944.260000000002,
+      "dense_ratio": 0.2038
     },
     {
       "file": "simulation_a87024c7_56d3c9db_annotation.json",
@@ -1415,8 +1415,8 @@
       "full_hour_min": "15:58",
       "Full_second": 57539,
       "dense_hour_min": "03:19",
-      "dense_second": 11953,
-      "dense_ratio": 0.2077
+      "dense_second": 11956.23,
+      "dense_ratio": 0.2078
     },
     {
       "file": "simulation_02e5f7e3_b4016709_annotation.json",
@@ -1430,23 +1430,8 @@
       "full_hour_min": "15:31",
       "Full_second": 55919,
       "dense_hour_min": "01:28",
-      "dense_second": 5333,
+      "dense_second": 5335.55,
       "dense_ratio": 0.0954
-    },
-    {
-      "file": "simulation_d553ac96_5c49ee51_annotation.json",
-      "total": 15,
-      "present": 15,
-      "missing": 0,
-      "presence_ratio": 1.0,
-      "all_present": true,
-      "almost_all_present": false,
-      "missing_uids": [],
-      "full_hour_min": "15:55",
-      "Full_second": 57359,
-      "dense_hour_min": "05:34",
-      "dense_second": 20047,
-      "dense_ratio": 0.3495
     },
     {
       "file": "simulation_20f5b3ee_3cfc33c9_annotation.json",
@@ -1460,8 +1445,23 @@
       "full_hour_min": "15:39",
       "Full_second": 56399,
       "dense_hour_min": "01:29",
-      "dense_second": 5346,
+      "dense_second": 5346.92,
       "dense_ratio": 0.0948
+    },
+    {
+      "file": "simulation_d553ac96_5c49ee51_annotation.json",
+      "total": 15,
+      "present": 15,
+      "missing": 0,
+      "presence_ratio": 1.0,
+      "all_present": true,
+      "almost_all_present": false,
+      "missing_uids": [],
+      "full_hour_min": "15:55",
+      "Full_second": 57359,
+      "dense_hour_min": "05:34",
+      "dense_second": 20054.640000000003,
+      "dense_ratio": 0.3496
     },
     {
       "file": "simulation_1362d15a_43646163_annotation.json",
@@ -1475,7 +1475,7 @@
       "full_hour_min": "14:26",
       "Full_second": 52019,
       "dense_hour_min": "01:29",
-      "dense_second": 5378,
+      "dense_second": 5379.42,
       "dense_ratio": 0.1034
     },
     {
@@ -1490,7 +1490,7 @@
       "full_hour_min": "17:00",
       "Full_second": 61259,
       "dense_hour_min": "01:29",
-      "dense_second": 5384,
+      "dense_second": 5384.82,
       "dense_ratio": 0.0879
     },
     {
@@ -1505,8 +1505,8 @@
       "full_hour_min": "15:44",
       "Full_second": 56699,
       "dense_hour_min": "05:37",
-      "dense_second": 20265,
-      "dense_ratio": 0.3574
+      "dense_second": 20272.520000000004,
+      "dense_ratio": 0.3575
     },
     {
       "file": "simulation_cb6b7494_e2f9d881_annotation.json",
@@ -1520,7 +1520,7 @@
       "full_hour_min": "15:20",
       "Full_second": 55259,
       "dense_hour_min": "01:30",
-      "dense_second": 5442,
+      "dense_second": 5444.33,
       "dense_ratio": 0.0985
     },
     {
@@ -1535,8 +1535,8 @@
       "full_hour_min": "15:58",
       "Full_second": 57539,
       "dense_hour_min": "05:40",
-      "dense_second": 20422,
-      "dense_ratio": 0.3549
+      "dense_second": 20430.64,
+      "dense_ratio": 0.3551
     },
     {
       "file": "simulation_e1994fbc_d6a39ab8_annotation.json",
@@ -1550,7 +1550,7 @@
       "full_hour_min": "13:09",
       "Full_second": 47399,
       "dense_hour_min": "01:30",
-      "dense_second": 5458,
+      "dense_second": 5459.620000000001,
       "dense_ratio": 0.1152
     },
     {
@@ -1565,8 +1565,8 @@
       "full_hour_min": "15:31",
       "Full_second": 55919,
       "dense_hour_min": "03:24",
-      "dense_second": 12291,
-      "dense_ratio": 0.2198
+      "dense_second": 12294.960000000001,
+      "dense_ratio": 0.2199
     },
     {
       "file": "simulation_71dc95ba_4e679e23_annotation.json",
@@ -1580,7 +1580,7 @@
       "full_hour_min": "16:34",
       "Full_second": 59699,
       "dense_hour_min": "05:41",
-      "dense_second": 20486,
+      "dense_second": 20491.63,
       "dense_ratio": 0.3432
     },
     {
@@ -1595,8 +1595,8 @@
       "full_hour_min": "11:37",
       "Full_second": 41879,
       "dense_hour_min": "03:25",
-      "dense_second": 12324,
-      "dense_ratio": 0.2943
+      "dense_second": 12328.330000000002,
+      "dense_ratio": 0.2944
     },
     {
       "file": "simulation_430347b5_56dbc3f9_annotation.json",
@@ -1610,8 +1610,8 @@
       "full_hour_min": "11:56",
       "Full_second": 43019,
       "dense_hour_min": "01:31",
-      "dense_second": 5504,
-      "dense_ratio": 0.1279
+      "dense_second": 5506.050000000001,
+      "dense_ratio": 0.128
     },
     {
       "file": "simulation_796a1f8c_3a1093b3_annotation.json",
@@ -1625,8 +1625,8 @@
       "full_hour_min": "12:45",
       "Full_second": 45959,
       "dense_hour_min": "03:26",
-      "dense_second": 12412,
-      "dense_ratio": 0.2701
+      "dense_second": 12415.870000000003,
+      "dense_ratio": 0.2702
     },
     {
       "file": "simulation_79e4ded6_11263c96_annotation.json",
@@ -1639,9 +1639,9 @@
       "missing_uids": [],
       "full_hour_min": "14:25",
       "Full_second": 51959,
-      "dense_hour_min": "05:44",
-      "dense_second": 20698,
-      "dense_ratio": 0.3984
+      "dense_hour_min": "05:45",
+      "dense_second": 20703.859999999997,
+      "dense_ratio": 0.3985
     },
     {
       "file": "simulation_d553ac96_f8bb6505_annotation.json",
@@ -1655,7 +1655,7 @@
       "full_hour_min": "17:08",
       "Full_second": 61739,
       "dense_hour_min": "03:28",
-      "dense_second": 12512,
+      "dense_second": 12515.75,
       "dense_ratio": 0.2027
     },
     {
@@ -1670,8 +1670,8 @@
       "full_hour_min": "16:36",
       "Full_second": 59819,
       "dense_hour_min": "05:48",
-      "dense_second": 20890,
-      "dense_ratio": 0.3492
+      "dense_second": 20897.48,
+      "dense_ratio": 0.3493
     },
     {
       "file": "simulation_a0981bd2_d53177b7_annotation.json",
@@ -1685,7 +1685,7 @@
       "full_hour_min": "14:25",
       "Full_second": 51959,
       "dense_hour_min": "01:33",
-      "dense_second": 5585,
+      "dense_second": 5586.75,
       "dense_ratio": 0.1075
     },
     {
@@ -1700,7 +1700,7 @@
       "full_hour_min": "15:09",
       "Full_second": 54599,
       "dense_hour_min": "01:33",
-      "dense_second": 5594,
+      "dense_second": 5594.389999999999,
       "dense_ratio": 0.1025
     },
     {
@@ -1715,8 +1715,8 @@
       "full_hour_min": "15:01",
       "Full_second": 54119,
       "dense_hour_min": "05:51",
-      "dense_second": 21067,
-      "dense_ratio": 0.3893
+      "dense_second": 21073.05,
+      "dense_ratio": 0.3894
     },
     {
       "file": "simulation_3951dbc0_562e77af_annotation.json",
@@ -1730,8 +1730,8 @@
       "full_hour_min": "12:33",
       "Full_second": 45239,
       "dense_hour_min": "05:53",
-      "dense_second": 21193,
-      "dense_ratio": 0.4685
+      "dense_second": 21200.059999999998,
+      "dense_ratio": 0.4686
     },
     {
       "file": "simulation_70dc627d_60290329_annotation.json",
@@ -1745,8 +1745,8 @@
       "full_hour_min": "16:10",
       "Full_second": 58259,
       "dense_hour_min": "03:32",
-      "dense_second": 12773,
-      "dense_ratio": 0.2192
+      "dense_second": 12777.700000000003,
+      "dense_ratio": 0.2193
     },
     {
       "file": "simulation_45f9c449_0e162cc9_annotation.json",
@@ -1760,8 +1760,8 @@
       "full_hour_min": "15:59",
       "Full_second": 57599,
       "dense_hour_min": "05:55",
-      "dense_second": 21317,
-      "dense_ratio": 0.3701
+      "dense_second": 21324.590000000004,
+      "dense_ratio": 0.3702
     },
     {
       "file": "simulation_4d431c2c_c97470e7_annotation.json",
@@ -1774,9 +1774,9 @@
       "missing_uids": [],
       "full_hour_min": "15:26",
       "Full_second": 55619,
-      "dense_hour_min": "05:55",
-      "dense_second": 21359,
-      "dense_ratio": 0.384
+      "dense_hour_min": "05:56",
+      "dense_second": 21365.670000000002,
+      "dense_ratio": 0.3841
     },
     {
       "file": "simulation_45f9c449_c23d9681_annotation.json",
@@ -1790,8 +1790,8 @@
       "full_hour_min": "13:37",
       "Full_second": 49079,
       "dense_hour_min": "01:35",
-      "dense_second": 5725,
-      "dense_ratio": 0.1166
+      "dense_second": 5727.26,
+      "dense_ratio": 0.1167
     },
     {
       "file": "simulation_79aa408f_6d9f74c6_annotation.json",
@@ -1805,7 +1805,7 @@
       "full_hour_min": "14:59",
       "Full_second": 53999,
       "dense_hour_min": "01:35",
-      "dense_second": 5738,
+      "dense_second": 5739.77,
       "dense_ratio": 0.1063
     },
     {
@@ -1820,8 +1820,8 @@
       "full_hour_min": "14:36",
       "Full_second": 52619,
       "dense_hour_min": "05:59",
-      "dense_second": 21559,
-      "dense_ratio": 0.4097
+      "dense_second": 21565.56,
+      "dense_ratio": 0.4098
     },
     {
       "file": "simulation_6324f914_72d69b10_annotation.json",
@@ -1835,7 +1835,7 @@
       "full_hour_min": "16:11",
       "Full_second": 58319,
       "dense_hour_min": "03:36",
-      "dense_second": 12986,
+      "dense_second": 12989.490000000002,
       "dense_ratio": 0.2227
     },
     {
@@ -1850,8 +1850,8 @@
       "full_hour_min": "14:55",
       "Full_second": 53759,
       "dense_hour_min": "03:38",
-      "dense_second": 13118,
-      "dense_ratio": 0.244
+      "dense_second": 13121.220000000001,
+      "dense_ratio": 0.2441
     },
     {
       "file": "simulation_ca4f828d_3440e965_annotation.json",
@@ -1865,8 +1865,8 @@
       "full_hour_min": "15:30",
       "Full_second": 55859,
       "dense_hour_min": "03:39",
-      "dense_second": 13162,
-      "dense_ratio": 0.2356
+      "dense_second": 13164.22,
+      "dense_ratio": 0.2357
     },
     {
       "file": "simulation_96808b70_d68d2b54_annotation.json",
@@ -1879,9 +1879,9 @@
       "missing_uids": [],
       "full_hour_min": "14:22",
       "Full_second": 51779,
-      "dense_hour_min": "06:07",
-      "dense_second": 22076,
-      "dense_ratio": 0.4264
+      "dense_hour_min": "06:08",
+      "dense_second": 22083.530000000002,
+      "dense_ratio": 0.4265
     },
     {
       "file": "simulation_e49e35d7_86f20c1d_annotation.json",
@@ -1895,8 +1895,8 @@
       "full_hour_min": "15:59",
       "Full_second": 57599,
       "dense_hour_min": "03:40",
-      "dense_second": 13256,
-      "dense_ratio": 0.2301
+      "dense_second": 13259.080000000002,
+      "dense_ratio": 0.2302
     },
     {
       "file": "simulation_63c60182_3fd5caeb_annotation.json",
@@ -1910,8 +1910,8 @@
       "full_hour_min": "13:29",
       "Full_second": 48599,
       "dense_hour_min": "06:08",
-      "dense_second": 22102,
-      "dense_ratio": 0.4548
+      "dense_second": 22106.74,
+      "dense_ratio": 0.4549
     },
     {
       "file": "simulation_16ef3501_137dc060_annotation.json",
@@ -1925,8 +1925,8 @@
       "full_hour_min": "14:39",
       "Full_second": 52799,
       "dense_hour_min": "01:38",
-      "dense_second": 5905,
-      "dense_ratio": 0.1118
+      "dense_second": 5906.280000000001,
+      "dense_ratio": 0.1119
     },
     {
       "file": "simulation_3eaad16d_881b12dd_annotation.json",
@@ -1940,8 +1940,8 @@
       "full_hour_min": "16:29",
       "Full_second": 59399,
       "dense_hour_min": "06:10",
-      "dense_second": 22231,
-      "dense_ratio": 0.3743
+      "dense_second": 22238.88,
+      "dense_ratio": 0.3744
     },
     {
       "file": "simulation_c22303c0_c68c4d29_annotation.json",
@@ -1955,7 +1955,7 @@
       "full_hour_min": "13:57",
       "Full_second": 50279,
       "dense_hour_min": "01:38",
-      "dense_second": 5931,
+      "dense_second": 5933.35,
       "dense_ratio": 0.118
     },
     {
@@ -1970,8 +1970,8 @@
       "full_hour_min": "16:09",
       "Full_second": 58199,
       "dense_hour_min": "06:12",
-      "dense_second": 22326,
-      "dense_ratio": 0.3836
+      "dense_second": 22332.530000000002,
+      "dense_ratio": 0.3837
     },
     {
       "file": "simulation_1f71abe9_1daef57b_annotation.json",
@@ -1985,8 +1985,8 @@
       "full_hour_min": "15:39",
       "Full_second": 56399,
       "dense_hour_min": "01:39",
-      "dense_second": 5957,
-      "dense_ratio": 0.1056
+      "dense_second": 5958.92,
+      "dense_ratio": 0.1057
     },
     {
       "file": "simulation_a87024c7_ba88b120_annotation.json",
@@ -2000,8 +2000,8 @@
       "full_hour_min": "15:40",
       "Full_second": 56459,
       "dense_hour_min": "06:12",
-      "dense_second": 22365,
-      "dense_ratio": 0.3961
+      "dense_second": 22370.63,
+      "dense_ratio": 0.3962
     },
     {
       "file": "simulation_20f5b3ee_4ebb1095_annotation.json",
@@ -2015,8 +2015,8 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "06:13",
-      "dense_second": 22399,
-      "dense_ratio": 0.3942
+      "dense_second": 22406.09,
+      "dense_ratio": 0.3943
     },
     {
       "file": "simulation_1c2c91d6_16ab6d46_annotation.json",
@@ -2030,8 +2030,8 @@
       "full_hour_min": "15:51",
       "Full_second": 57119,
       "dense_hour_min": "06:13",
-      "dense_second": 22412,
-      "dense_ratio": 0.3924
+      "dense_second": 22417.579999999998,
+      "dense_ratio": 0.3925
     },
     {
       "file": "simulation_20f5b3ee_594770e3_annotation.json",
@@ -2045,7 +2045,7 @@
       "full_hour_min": "14:54",
       "Full_second": 53699,
       "dense_hour_min": "03:44",
-      "dense_second": 13460,
+      "dense_second": 13464.95,
       "dense_ratio": 0.2507
     },
     {
@@ -2059,8 +2059,8 @@
       "missing_uids": [],
       "full_hour_min": "12:37",
       "Full_second": 45479,
-      "dense_hour_min": "01:39",
-      "dense_second": 5999,
+      "dense_hour_min": "01:40",
+      "dense_second": 6000.740000000001,
       "dense_ratio": 0.1319
     },
     {
@@ -2075,8 +2075,8 @@
       "full_hour_min": "15:26",
       "Full_second": 55619,
       "dense_hour_min": "01:40",
-      "dense_second": 6019,
-      "dense_ratio": 0.1082
+      "dense_second": 6020.85,
+      "dense_ratio": 0.1083
     },
     {
       "file": "simulation_6d33ce6f_1d9883d2_annotation.json",
@@ -2090,8 +2090,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "06:17",
-      "dense_second": 22644,
-      "dense_ratio": 0.3944
+      "dense_second": 22651.85,
+      "dense_ratio": 0.3945
     },
     {
       "file": "simulation_8ade7a7f_5e62a857_annotation.json",
@@ -2105,8 +2105,8 @@
       "full_hour_min": "15:31",
       "Full_second": 55919,
       "dense_hour_min": "06:17",
-      "dense_second": 22662,
-      "dense_ratio": 0.4053
+      "dense_second": 22668.880000000005,
+      "dense_ratio": 0.4054
     },
     {
       "file": "simulation_ed15a8a3_3719f1e8_annotation.json",
@@ -2120,8 +2120,8 @@
       "full_hour_min": "10:37",
       "Full_second": 38279,
       "dense_hour_min": "01:40",
-      "dense_second": 6046,
-      "dense_ratio": 0.1579
+      "dense_second": 6047.1900000000005,
+      "dense_ratio": 0.158
     },
     {
       "file": "simulation_e1994fbc_df437fdd_annotation.json",
@@ -2135,8 +2135,8 @@
       "full_hour_min": "16:54",
       "Full_second": 60899,
       "dense_hour_min": "03:47",
-      "dense_second": 13631,
-      "dense_ratio": 0.2238
+      "dense_second": 13634.47,
+      "dense_ratio": 0.2239
     },
     {
       "file": "simulation_b689eeb9_539a92df_annotation.json",
@@ -2150,8 +2150,8 @@
       "full_hour_min": "15:54",
       "Full_second": 57299,
       "dense_hour_min": "06:19",
-      "dense_second": 22793,
-      "dense_ratio": 0.3978
+      "dense_second": 22798.630000000005,
+      "dense_ratio": 0.3979
     },
     {
       "file": "simulation_a24e00e4_3ce5b095_annotation.json",
@@ -2165,7 +2165,7 @@
       "full_hour_min": "17:13",
       "Full_second": 62039,
       "dense_hour_min": "06:21",
-      "dense_second": 22902,
+      "dense_second": 22907.590000000004,
       "dense_ratio": 0.3692
     },
     {
@@ -2180,7 +2180,7 @@
       "full_hour_min": "13:46",
       "Full_second": 49619,
       "dense_hour_min": "01:42",
-      "dense_second": 6123,
+      "dense_second": 6125.12,
       "dense_ratio": 0.1234
     },
     {
@@ -2195,8 +2195,8 @@
       "full_hour_min": "15:53",
       "Full_second": 57239,
       "dense_hour_min": "03:50",
-      "dense_second": 13853,
-      "dense_ratio": 0.242
+      "dense_second": 13857.960000000001,
+      "dense_ratio": 0.2421
     },
     {
       "file": "simulation_0c499892_2e0b2afd_annotation.json",
@@ -2210,8 +2210,8 @@
       "full_hour_min": "15:00",
       "Full_second": 54059,
       "dense_hour_min": "01:42",
-      "dense_second": 6175,
-      "dense_ratio": 0.1142
+      "dense_second": 6176.74,
+      "dense_ratio": 0.1143
     },
     {
       "file": "simulation_7948760e_5c3d649a_annotation.json",
@@ -2225,8 +2225,8 @@
       "full_hour_min": "15:45",
       "Full_second": 56759,
       "dense_hour_min": "03:53",
-      "dense_second": 13998,
-      "dense_ratio": 0.2466
+      "dense_second": 14000.87,
+      "dense_ratio": 0.2467
     },
     {
       "file": "simulation_2c92746d_5d5a77cc_annotation.json",
@@ -2240,7 +2240,7 @@
       "full_hour_min": "13:11",
       "Full_second": 47519,
       "dense_hour_min": "01:43",
-      "dense_second": 6229,
+      "dense_second": 6231.22,
       "dense_ratio": 0.1311
     },
     {
@@ -2255,7 +2255,7 @@
       "full_hour_min": "15:01",
       "Full_second": 54119,
       "dense_hour_min": "01:43",
-      "dense_second": 6234,
+      "dense_second": 6234.75,
       "dense_ratio": 0.1152
     },
     {
@@ -2269,9 +2269,9 @@
       "missing_uids": [],
       "full_hour_min": "15:22",
       "Full_second": 55379,
-      "dense_hour_min": "03:53",
-      "dense_second": 14035,
-      "dense_ratio": 0.2534
+      "dense_hour_min": "03:54",
+      "dense_second": 14041.63,
+      "dense_ratio": 0.2536
     },
     {
       "file": "simulation_6f447533_f2cb50fa_annotation.json",
@@ -2285,7 +2285,7 @@
       "full_hour_min": "15:34",
       "Full_second": 56099,
       "dense_hour_min": "01:44",
-      "dense_second": 6242,
+      "dense_second": 6244.57,
       "dense_ratio": 0.1113
     },
     {
@@ -2299,9 +2299,9 @@
       "missing_uids": [],
       "full_hour_min": "15:41",
       "Full_second": 56519,
-      "dense_hour_min": "06:30",
-      "dense_second": 23455,
-      "dense_ratio": 0.415
+      "dense_hour_min": "06:31",
+      "dense_second": 23461.0,
+      "dense_ratio": 0.4151
     },
     {
       "file": "simulation_45f9c449_be5d07ee_annotation.json",
@@ -2314,9 +2314,9 @@
       "missing_uids": [],
       "full_hour_min": "14:51",
       "Full_second": 53519,
-      "dense_hour_min": "03:54",
-      "dense_second": 14099,
-      "dense_ratio": 0.2634
+      "dense_hour_min": "03:55",
+      "dense_second": 14103.119999999999,
+      "dense_ratio": 0.2635
     },
     {
       "file": "simulation_450e5698_45e08cd0_annotation.json",
@@ -2330,8 +2330,8 @@
       "full_hour_min": "16:05",
       "Full_second": 57959,
       "dense_hour_min": "06:32",
-      "dense_second": 23530,
-      "dense_ratio": 0.406
+      "dense_second": 23538.27,
+      "dense_ratio": 0.4061
     },
     {
       "file": "simulation_0120dffb_0d0b4c6b_annotation.json",
@@ -2345,8 +2345,8 @@
       "full_hour_min": "12:38",
       "Full_second": 45539,
       "dense_hour_min": "06:32",
-      "dense_second": 23533,
-      "dense_ratio": 0.5168
+      "dense_second": 23540.600000000002,
+      "dense_ratio": 0.5169
     },
     {
       "file": "simulation_7c2ee5b4_f46f4bf5_annotation.json",
@@ -2360,8 +2360,8 @@
       "full_hour_min": "15:19",
       "Full_second": 55199,
       "dense_hour_min": "03:55",
-      "dense_second": 14139,
-      "dense_ratio": 0.2561
+      "dense_second": 14141.83,
+      "dense_ratio": 0.2562
     },
     {
       "file": "simulation_fbe9742d_94d47ff2_annotation.json",
@@ -2374,9 +2374,9 @@
       "missing_uids": [],
       "full_hour_min": "12:50",
       "Full_second": 46259,
-      "dense_hour_min": "06:33",
-      "dense_second": 23638,
-      "dense_ratio": 0.511
+      "dense_hour_min": "06:34",
+      "dense_second": 23644.26,
+      "dense_ratio": 0.5111
     },
     {
       "file": "simulation_f7b33604_5ad6659d_annotation.json",
@@ -2390,8 +2390,8 @@
       "full_hour_min": "13:53",
       "Full_second": 50039,
       "dense_hour_min": "06:34",
-      "dense_second": 23678,
-      "dense_ratio": 0.4732
+      "dense_second": 23686.45,
+      "dense_ratio": 0.4734
     },
     {
       "file": "simulation_2fb7d5ca_4d1f10d1_annotation.json",
@@ -2405,7 +2405,7 @@
       "full_hour_min": "14:45",
       "Full_second": 53159,
       "dense_hour_min": "01:45",
-      "dense_second": 6338,
+      "dense_second": 6338.98,
       "dense_ratio": 0.1192
     },
     {
@@ -2420,8 +2420,8 @@
       "full_hour_min": "14:10",
       "Full_second": 51059,
       "dense_hour_min": "06:36",
-      "dense_second": 23784,
-      "dense_ratio": 0.4658
+      "dense_second": 23789.16,
+      "dense_ratio": 0.4659
     },
     {
       "file": "simulation_63565db6_101cf504_annotation.json",
@@ -2435,8 +2435,8 @@
       "full_hour_min": "15:48",
       "Full_second": 56939,
       "dense_hour_min": "06:36",
-      "dense_second": 23788,
-      "dense_ratio": 0.4178
+      "dense_second": 23793.829999999998,
+      "dense_ratio": 0.4179
     },
     {
       "file": "simulation_ca4f828d_c6fb5e16_annotation.json",
@@ -2450,7 +2450,7 @@
       "full_hour_min": "15:37",
       "Full_second": 56279,
       "dense_hour_min": "01:45",
-      "dense_second": 6352,
+      "dense_second": 6353.62,
       "dense_ratio": 0.1129
     },
     {
@@ -2465,7 +2465,7 @@
       "full_hour_min": "15:39",
       "Full_second": 56399,
       "dense_hour_min": "01:47",
-      "dense_second": 6436,
+      "dense_second": 6437.780000000001,
       "dense_ratio": 0.1141
     },
     {
@@ -2479,9 +2479,9 @@
       "missing_uids": [],
       "full_hour_min": "15:54",
       "Full_second": 57299,
-      "dense_hour_min": "04:01",
-      "dense_second": 14517,
-      "dense_ratio": 0.2534
+      "dense_hour_min": "04:02",
+      "dense_second": 14522.829999999998,
+      "dense_ratio": 0.2535
     },
     {
       "file": "simulation_56cb5014_58c31c73_annotation.json",
@@ -2495,7 +2495,7 @@
       "full_hour_min": "15:01",
       "Full_second": 54119,
       "dense_hour_min": "01:47",
-      "dense_second": 6456,
+      "dense_second": 6458.509999999999,
       "dense_ratio": 0.1193
     },
     {
@@ -2510,8 +2510,8 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "04:03",
-      "dense_second": 14587,
-      "dense_ratio": 0.2567
+      "dense_second": 14591.15,
+      "dense_ratio": 0.2568
     },
     {
       "file": "simulation_42b3cfb8_4b3f4253_annotation.json",
@@ -2525,8 +2525,8 @@
       "full_hour_min": "16:40",
       "Full_second": 60059,
       "dense_hour_min": "06:46",
-      "dense_second": 24380,
-      "dense_ratio": 0.4059
+      "dense_second": 24387.57,
+      "dense_ratio": 0.4061
     },
     {
       "file": "simulation_39cde737_1286cc81_annotation.json",
@@ -2540,8 +2540,8 @@
       "full_hour_min": "14:32",
       "Full_second": 52379,
       "dense_hour_min": "04:03",
-      "dense_second": 14631,
-      "dense_ratio": 0.2793
+      "dense_second": 14636.769999999997,
+      "dense_ratio": 0.2794
     },
     {
       "file": "simulation_4ea8744c_23155ceb_annotation.json",
@@ -2555,7 +2555,7 @@
       "full_hour_min": "15:26",
       "Full_second": 55619,
       "dense_hour_min": "04:04",
-      "dense_second": 14659,
+      "dense_second": 14663.49,
       "dense_ratio": 0.2636
     },
     {
@@ -2570,8 +2570,8 @@
       "full_hour_min": "14:05",
       "Full_second": 50759,
       "dense_hour_min": "06:48",
-      "dense_second": 24491,
-      "dense_ratio": 0.4825
+      "dense_second": 24498.84,
+      "dense_ratio": 0.4827
     },
     {
       "file": "simulation_79aa408f_73fe184e_annotation.json",
@@ -2585,8 +2585,8 @@
       "full_hour_min": "15:24",
       "Full_second": 55499,
       "dense_hour_min": "04:06",
-      "dense_second": 14769,
-      "dense_ratio": 0.2661
+      "dense_second": 14773.97,
+      "dense_ratio": 0.2662
     },
     {
       "file": "simulation_a4714336_0adb9f8a_annotation.json",
@@ -2600,8 +2600,8 @@
       "full_hour_min": "14:21",
       "Full_second": 51719,
       "dense_hour_min": "06:50",
-      "dense_second": 24625,
-      "dense_ratio": 0.4761
+      "dense_second": 24633.429999999997,
+      "dense_ratio": 0.4763
     },
     {
       "file": "simulation_a0981bd2_b028f28c_annotation.json",
@@ -2615,8 +2615,8 @@
       "full_hour_min": "15:09",
       "Full_second": 54599,
       "dense_hour_min": "04:06",
-      "dense_second": 14806,
-      "dense_ratio": 0.2712
+      "dense_second": 14810.65,
+      "dense_ratio": 0.2713
     },
     {
       "file": "simulation_a879ae42_0df2edf9_annotation.json",
@@ -2630,8 +2630,8 @@
       "full_hour_min": "13:48",
       "Full_second": 49739,
       "dense_hour_min": "06:55",
-      "dense_second": 24912,
-      "dense_ratio": 0.5009
+      "dense_second": 24918.740000000005,
+      "dense_ratio": 0.501
     },
     {
       "file": "simulation_50e8a977_c3ca9d6a_annotation.json",
@@ -2645,8 +2645,8 @@
       "full_hour_min": "15:21",
       "Full_second": 55319,
       "dense_hour_min": "06:56",
-      "dense_second": 25000,
-      "dense_ratio": 0.4519
+      "dense_second": 25007.05,
+      "dense_ratio": 0.4521
     },
     {
       "file": "simulation_45a22392_08c00de8_annotation.json",
@@ -2660,8 +2660,8 @@
       "full_hour_min": "14:23",
       "Full_second": 51839,
       "dense_hour_min": "04:13",
-      "dense_second": 15189,
-      "dense_ratio": 0.293
+      "dense_second": 15193.150000000001,
+      "dense_ratio": 0.2931
     },
     {
       "file": "simulation_e7ec1eff_40570cc9_annotation.json",
@@ -2675,23 +2675,8 @@
       "full_hour_min": "16:20",
       "Full_second": 58859,
       "dense_hour_min": "04:14",
-      "dense_second": 15274,
-      "dense_ratio": 0.2595
-    },
-    {
-      "file": "simulation_e7ec1eff_d6d5cd20_annotation.json",
-      "total": 15,
-      "present": 15,
-      "missing": 0,
-      "presence_ratio": 1.0,
-      "all_present": true,
-      "almost_all_present": false,
-      "missing_uids": [],
-      "full_hour_min": "17:11",
-      "Full_second": 61919,
-      "dense_hour_min": "07:04",
-      "dense_second": 25473,
-      "dense_ratio": 0.4114
+      "dense_second": 15277.240000000002,
+      "dense_ratio": 0.2596
     },
     {
       "file": "simulation_3e7df5c1_177009f7_annotation.json",
@@ -2705,8 +2690,23 @@
       "full_hour_min": "14:59",
       "Full_second": 53999,
       "dense_hour_min": "04:14",
-      "dense_second": 15284,
-      "dense_ratio": 0.283
+      "dense_second": 15288.25,
+      "dense_ratio": 0.2831
+    },
+    {
+      "file": "simulation_e7ec1eff_d6d5cd20_annotation.json",
+      "total": 15,
+      "present": 15,
+      "missing": 0,
+      "presence_ratio": 1.0,
+      "all_present": true,
+      "almost_all_present": false,
+      "missing_uids": [],
+      "full_hour_min": "17:11",
+      "Full_second": 61919,
+      "dense_hour_min": "07:04",
+      "dense_second": 25480.52,
+      "dense_ratio": 0.4115
     },
     {
       "file": "simulation_e61cf5e7_35e95f5d_annotation.json",
@@ -2720,8 +2720,8 @@
       "full_hour_min": "16:58",
       "Full_second": 61139,
       "dense_hour_min": "07:06",
-      "dense_second": 25569,
-      "dense_ratio": 0.4182
+      "dense_second": 25576.720000000005,
+      "dense_ratio": 0.4183
     },
     {
       "file": "simulation_6324f914_ea59151f_annotation.json",
@@ -2735,8 +2735,8 @@
       "full_hour_min": "12:25",
       "Full_second": 44759,
       "dense_hour_min": "01:53",
-      "dense_second": 6826,
-      "dense_ratio": 0.1525
+      "dense_second": 6829.04,
+      "dense_ratio": 0.1526
     },
     {
       "file": "simulation_9275408c_1696a4b1_annotation.json",
@@ -2750,8 +2750,8 @@
       "full_hour_min": "16:03",
       "Full_second": 57839,
       "dense_hour_min": "07:07",
-      "dense_second": 25655,
-      "dense_ratio": 0.4436
+      "dense_second": 25661.940000000002,
+      "dense_ratio": 0.4437
     },
     {
       "file": "simulation_3eaad16d_0a6c5ac9_annotation.json",
@@ -2765,8 +2765,8 @@
       "full_hour_min": "16:29",
       "Full_second": 59399,
       "dense_hour_min": "04:16",
-      "dense_second": 15407,
-      "dense_ratio": 0.2594
+      "dense_second": 15411.230000000001,
+      "dense_ratio": 0.2595
     },
     {
       "file": "simulation_9f544f85_4eaadd54_annotation.json",
@@ -2780,8 +2780,8 @@
       "full_hour_min": "16:01",
       "Full_second": 57719,
       "dense_hour_min": "04:17",
-      "dense_second": 15429,
-      "dense_ratio": 0.2673
+      "dense_second": 15431.720000000001,
+      "dense_ratio": 0.2674
     },
     {
       "file": "simulation_5c1dd4c5_687bc8fe_annotation.json",
@@ -2795,8 +2795,8 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "07:13",
-      "dense_second": 25987,
-      "dense_ratio": 0.4574
+      "dense_second": 25995.27,
+      "dense_ratio": 0.4575
     },
     {
       "file": "simulation_0c4a73fc_f3195ab1_annotation.json",
@@ -2810,7 +2810,7 @@
       "full_hour_min": "15:14",
       "Full_second": 54899,
       "dense_hour_min": "04:22",
-      "dense_second": 15750,
+      "dense_second": 15753.25,
       "dense_ratio": 0.2869
     },
     {
@@ -2825,8 +2825,8 @@
       "full_hour_min": "14:17",
       "Full_second": 51479,
       "dense_hour_min": "01:56",
-      "dense_second": 7003,
-      "dense_ratio": 0.136
+      "dense_second": 7004.88,
+      "dense_ratio": 0.1361
     },
     {
       "file": "simulation_f4fe6112_922a3aa9_annotation.json",
@@ -2840,8 +2840,8 @@
       "full_hour_min": "14:37",
       "Full_second": 52679,
       "dense_hour_min": "07:17",
-      "dense_second": 26269,
-      "dense_ratio": 0.4987
+      "dense_second": 26277.629999999997,
+      "dense_ratio": 0.4988
     },
     {
       "file": "simulation_13e77945_2e7c2e60_annotation.json",
@@ -2855,8 +2855,8 @@
       "full_hour_min": "15:44",
       "Full_second": 56699,
       "dense_hour_min": "04:22",
-      "dense_second": 15772,
-      "dense_ratio": 0.2782
+      "dense_second": 15777.36,
+      "dense_ratio": 0.2783
     },
     {
       "file": "simulation_317754ce_d036bc37_annotation.json",
@@ -2870,7 +2870,7 @@
       "full_hour_min": "15:24",
       "Full_second": 55499,
       "dense_hour_min": "01:57",
-      "dense_second": 7025,
+      "dense_second": 7026.35,
       "dense_ratio": 0.1266
     },
     {
@@ -2885,8 +2885,8 @@
       "full_hour_min": "15:50",
       "Full_second": 57059,
       "dense_hour_min": "04:24",
-      "dense_second": 15870,
-      "dense_ratio": 0.2781
+      "dense_second": 15873.44,
+      "dense_ratio": 0.2782
     },
     {
       "file": "simulation_15887bd4_4a5f68f6_annotation.json",
@@ -2900,8 +2900,8 @@
       "full_hour_min": "16:36",
       "Full_second": 59819,
       "dense_hour_min": "07:20",
-      "dense_second": 26451,
-      "dense_ratio": 0.4422
+      "dense_second": 26457.850000000002,
+      "dense_ratio": 0.4423
     },
     {
       "file": "simulation_9f544f85_dddf9206_annotation.json",
@@ -2915,8 +2915,8 @@
       "full_hour_min": "15:04",
       "Full_second": 54299,
       "dense_hour_min": "07:21",
-      "dense_second": 26508,
-      "dense_ratio": 0.4882
+      "dense_second": 26512.860000000004,
+      "dense_ratio": 0.4883
     },
     {
       "file": "simulation_55ae50b0_b1de336f_annotation.json",
@@ -2930,7 +2930,7 @@
       "full_hour_min": "14:38",
       "Full_second": 52739,
       "dense_hour_min": "01:58",
-      "dense_second": 7134,
+      "dense_second": 7135.91,
       "dense_ratio": 0.1353
     },
     {
@@ -2945,8 +2945,8 @@
       "full_hour_min": "13:11",
       "Full_second": 47519,
       "dense_hour_min": "04:28",
-      "dense_second": 16081,
-      "dense_ratio": 0.3384
+      "dense_second": 16084.970000000001,
+      "dense_ratio": 0.3385
     },
     {
       "file": "simulation_3951dbc0_2d9e45a6_annotation.json",
@@ -2960,8 +2960,8 @@
       "full_hour_min": "15:19",
       "Full_second": 55199,
       "dense_hour_min": "04:29",
-      "dense_second": 16140,
-      "dense_ratio": 0.2924
+      "dense_second": 16144.730000000001,
+      "dense_ratio": 0.2925
     },
     {
       "file": "simulation_96808b70_49c5089c_annotation.json",
@@ -2975,8 +2975,8 @@
       "full_hour_min": "15:26",
       "Full_second": 55619,
       "dense_hour_min": "04:30",
-      "dense_second": 16248,
-      "dense_ratio": 0.2921
+      "dense_second": 16251.570000000002,
+      "dense_ratio": 0.2922
     },
     {
       "file": "simulation_87e5be9e_71a1956b_annotation.json",
@@ -2990,8 +2990,8 @@
       "full_hour_min": "17:50",
       "Full_second": 64259,
       "dense_hour_min": "07:32",
-      "dense_second": 27151,
-      "dense_ratio": 0.4225
+      "dense_second": 27155.54,
+      "dense_ratio": 0.4226
     },
     {
       "file": "simulation_4ae31e0d_3b4f81ef_annotation.json",
@@ -3005,8 +3005,8 @@
       "full_hour_min": "17:03",
       "Full_second": 61439,
       "dense_hour_min": "07:33",
-      "dense_second": 27186,
-      "dense_ratio": 0.4425
+      "dense_second": 27193.880000000005,
+      "dense_ratio": 0.4426
     },
     {
       "file": "simulation_47e8a0bd_ebde681a_annotation.json",
@@ -3020,8 +3020,8 @@
       "full_hour_min": "18:41",
       "Full_second": 67319,
       "dense_hour_min": "07:34",
-      "dense_second": 27260,
-      "dense_ratio": 0.4049
+      "dense_second": 27267.14,
+      "dense_ratio": 0.405
     },
     {
       "file": "simulation_796a1f8c_39ff39d5_annotation.json",
@@ -3035,7 +3035,7 @@
       "full_hour_min": "14:30",
       "Full_second": 52259,
       "dense_hour_min": "02:01",
-      "dense_second": 7280,
+      "dense_second": 7280.96,
       "dense_ratio": 0.1393
     },
     {
@@ -3050,8 +3050,8 @@
       "full_hour_min": "13:07",
       "Full_second": 47279,
       "dense_hour_min": "02:01",
-      "dense_second": 7288,
-      "dense_ratio": 0.1541
+      "dense_second": 7289.780000000001,
+      "dense_ratio": 0.1542
     },
     {
       "file": "simulation_77d901d3_16db08c7_annotation.json",
@@ -3065,8 +3065,8 @@
       "full_hour_min": "15:37",
       "Full_second": 56279,
       "dense_hour_min": "07:36",
-      "dense_second": 27386,
-      "dense_ratio": 0.4866
+      "dense_second": 27391.26,
+      "dense_ratio": 0.4867
     },
     {
       "file": "simulation_a2dec61c_f008a604_annotation.json",
@@ -3080,8 +3080,8 @@
       "full_hour_min": "14:37",
       "Full_second": 52679,
       "dense_hour_min": "07:41",
-      "dense_second": 27712,
-      "dense_ratio": 0.5261
+      "dense_second": 27717.42,
+      "dense_ratio": 0.5262
     },
     {
       "file": "simulation_8efa4df8_a446482a_annotation.json",
@@ -3095,7 +3095,7 @@
       "full_hour_min": "12:57",
       "Full_second": 46679,
       "dense_hour_min": "02:03",
-      "dense_second": 7393,
+      "dense_second": 7394.9400000000005,
       "dense_ratio": 0.1584
     },
     {
@@ -3110,8 +3110,8 @@
       "full_hour_min": "16:48",
       "Full_second": 60539,
       "dense_hour_min": "07:44",
-      "dense_second": 27864,
-      "dense_ratio": 0.4603
+      "dense_second": 27871.650000000005,
+      "dense_ratio": 0.4604
     },
     {
       "file": "simulation_3e7df5c1_a61183ff_annotation.json",
@@ -3125,8 +3125,8 @@
       "full_hour_min": "15:25",
       "Full_second": 55559,
       "dense_hour_min": "07:44",
-      "dense_second": 27873,
-      "dense_ratio": 0.5017
+      "dense_second": 27881.94,
+      "dense_ratio": 0.5018
     },
     {
       "file": "simulation_4eb1d1e7_cc9442c3_annotation.json",
@@ -3140,8 +3140,8 @@
       "full_hour_min": "17:07",
       "Full_second": 61679,
       "dense_hour_min": "07:45",
-      "dense_second": 27909,
-      "dense_ratio": 0.4525
+      "dense_second": 27915.91,
+      "dense_ratio": 0.4526
     },
     {
       "file": "simulation_4ae31e0d_2738b897_annotation.json",
@@ -3155,7 +3155,7 @@
       "full_hour_min": "13:59",
       "Full_second": 50399,
       "dense_hour_min": "02:04",
-      "dense_second": 7479,
+      "dense_second": 7481.209999999999,
       "dense_ratio": 0.1484
     },
     {
@@ -3170,7 +3170,7 @@
       "full_hour_min": "14:24",
       "Full_second": 51899,
       "dense_hour_min": "02:04",
-      "dense_second": 7492,
+      "dense_second": 7493.31,
       "dense_ratio": 0.1444
     },
     {
@@ -3185,7 +3185,7 @@
       "full_hour_min": "16:52",
       "Full_second": 60779,
       "dense_hour_min": "02:05",
-      "dense_second": 7525,
+      "dense_second": 7527.090000000001,
       "dense_ratio": 0.1238
     },
     {
@@ -3200,8 +3200,8 @@
       "full_hour_min": "14:11",
       "Full_second": 51119,
       "dense_hour_min": "07:50",
-      "dense_second": 28228,
-      "dense_ratio": 0.5522
+      "dense_second": 28233.63,
+      "dense_ratio": 0.5523
     },
     {
       "file": "simulation_ed15a8a3_f8aeb879_annotation.json",
@@ -3215,8 +3215,8 @@
       "full_hour_min": "12:39",
       "Full_second": 45599,
       "dense_hour_min": "07:52",
-      "dense_second": 28366,
-      "dense_ratio": 0.6221
+      "dense_second": 28374.76,
+      "dense_ratio": 0.6223
     },
     {
       "file": "simulation_7948760e_b88ea675_annotation.json",
@@ -3229,9 +3229,9 @@
       "missing_uids": [],
       "full_hour_min": "16:45",
       "Full_second": 60359,
-      "dense_hour_min": "07:52",
-      "dense_second": 28376,
-      "dense_ratio": 0.4701
+      "dense_hour_min": "07:53",
+      "dense_second": 28382.91,
+      "dense_ratio": 0.4702
     },
     {
       "file": "simulation_430347b5_defb60e0_annotation.json",
@@ -3245,8 +3245,8 @@
       "full_hour_min": "14:53",
       "Full_second": 53639,
       "dense_hour_min": "04:43",
-      "dense_second": 17031,
-      "dense_ratio": 0.3175
+      "dense_second": 17034.6,
+      "dense_ratio": 0.3176
     },
     {
       "file": "simulation_46d530c7_b6b974e9_annotation.json",
@@ -3260,7 +3260,7 @@
       "full_hour_min": "16:52",
       "Full_second": 60779,
       "dense_hour_min": "04:44",
-      "dense_second": 17064,
+      "dense_second": 17068.06,
       "dense_ratio": 0.2808
     },
     {
@@ -3275,7 +3275,7 @@
       "full_hour_min": "15:49",
       "Full_second": 56999,
       "dense_hour_min": "04:45",
-      "dense_second": 17139,
+      "dense_second": 17141.37,
       "dense_ratio": 0.3007
     },
     {
@@ -3290,7 +3290,7 @@
       "full_hour_min": "11:38",
       "Full_second": 41939,
       "dense_hour_min": "02:07",
-      "dense_second": 7627,
+      "dense_second": 7628.52,
       "dense_ratio": 0.1819
     },
     {
@@ -3305,7 +3305,7 @@
       "full_hour_min": "13:43",
       "Full_second": 49439,
       "dense_hour_min": "02:07",
-      "dense_second": 7628,
+      "dense_second": 7629.41,
       "dense_ratio": 0.1543
     },
     {
@@ -3320,8 +3320,8 @@
       "full_hour_min": "17:01",
       "Full_second": 61319,
       "dense_hour_min": "07:59",
-      "dense_second": 28779,
-      "dense_ratio": 0.4693
+      "dense_second": 28784.879999999997,
+      "dense_ratio": 0.4694
     },
     {
       "file": "simulation_17f1983c_a3940756_annotation.json",
@@ -3335,8 +3335,8 @@
       "full_hour_min": "14:17",
       "Full_second": 51479,
       "dense_hour_min": "08:03",
-      "dense_second": 29003,
-      "dense_ratio": 0.5634
+      "dense_second": 29010.43,
+      "dense_ratio": 0.5635
     },
     {
       "file": "simulation_a9900cae_e4cfbdff_annotation.json",
@@ -3350,8 +3350,8 @@
       "full_hour_min": "17:46",
       "Full_second": 64019,
       "dense_hour_min": "08:03",
-      "dense_second": 29019,
-      "dense_ratio": 0.4533
+      "dense_second": 29024.97,
+      "dense_ratio": 0.4534
     },
     {
       "file": "simulation_13e77945_29478f48_annotation.json",
@@ -3365,8 +3365,8 @@
       "full_hour_min": "17:13",
       "Full_second": 62039,
       "dense_hour_min": "08:04",
-      "dense_second": 29046,
-      "dense_ratio": 0.4682
+      "dense_second": 29053.960000000006,
+      "dense_ratio": 0.4683
     },
     {
       "file": "simulation_c99119a8_e9a55563_annotation.json",
@@ -3380,8 +3380,8 @@
       "full_hour_min": "12:37",
       "Full_second": 45479,
       "dense_hour_min": "02:09",
-      "dense_second": 7759,
-      "dense_ratio": 0.1706
+      "dense_second": 7761.72,
+      "dense_ratio": 0.1707
     },
     {
       "file": "simulation_a879ae42_96a01a44_annotation.json",
@@ -3395,8 +3395,8 @@
       "full_hour_min": "15:12",
       "Full_second": 54779,
       "dense_hour_min": "04:51",
-      "dense_second": 17476,
-      "dense_ratio": 0.319
+      "dense_second": 17480.100000000002,
+      "dense_ratio": 0.3191
     },
     {
       "file": "simulation_e09fafc7_90c7faa4_annotation.json",
@@ -3410,7 +3410,7 @@
       "full_hour_min": "16:22",
       "Full_second": 58979,
       "dense_hour_min": "02:09",
-      "dense_second": 7789,
+      "dense_second": 7790.54,
       "dense_ratio": 0.1321
     },
     {
@@ -3425,8 +3425,8 @@
       "full_hour_min": "15:03",
       "Full_second": 54239,
       "dense_hour_min": "08:09",
-      "dense_second": 29353,
-      "dense_ratio": 0.5412
+      "dense_second": 29360.690000000002,
+      "dense_ratio": 0.5413
     },
     {
       "file": "simulation_7948760e_4f0a708b_annotation.json",
@@ -3440,7 +3440,7 @@
       "full_hour_min": "15:04",
       "Full_second": 54299,
       "dense_hour_min": "02:10",
-      "dense_second": 7828,
+      "dense_second": 7829.9400000000005,
       "dense_ratio": 0.1442
     },
     {
@@ -3455,8 +3455,8 @@
       "full_hour_min": "13:50",
       "Full_second": 49859,
       "dense_hour_min": "04:54",
-      "dense_second": 17657,
-      "dense_ratio": 0.3541
+      "dense_second": 17661.5,
+      "dense_ratio": 0.3542
     },
     {
       "file": "simulation_32f31f24_4bf55716_annotation.json",
@@ -3470,7 +3470,7 @@
       "full_hour_min": "14:14",
       "Full_second": 51299,
       "dense_hour_min": "02:10",
-      "dense_second": 7852,
+      "dense_second": 7853.65,
       "dense_ratio": 0.1531
     },
     {
@@ -3485,7 +3485,7 @@
       "full_hour_min": "14:17",
       "Full_second": 51479,
       "dense_hour_min": "02:11",
-      "dense_second": 7861,
+      "dense_second": 7862.11,
       "dense_ratio": 0.1527
     },
     {
@@ -3500,7 +3500,7 @@
       "full_hour_min": "15:06",
       "Full_second": 54419,
       "dense_hour_min": "04:56",
-      "dense_second": 17772,
+      "dense_second": 17774.86,
       "dense_ratio": 0.3266
     },
     {
@@ -3515,7 +3515,7 @@
       "full_hour_min": "17:06",
       "Full_second": 61619,
       "dense_hour_min": "04:57",
-      "dense_second": 17868,
+      "dense_second": 17871.170000000002,
       "dense_ratio": 0.29
     },
     {
@@ -3530,8 +3530,8 @@
       "full_hour_min": "16:30",
       "Full_second": 59459,
       "dense_hour_min": "08:17",
-      "dense_second": 29831,
-      "dense_ratio": 0.5017
+      "dense_second": 29838.91,
+      "dense_ratio": 0.5018
     },
     {
       "file": "simulation_77d901d3_eb49aadf_annotation.json",
@@ -3545,8 +3545,8 @@
       "full_hour_min": "11:32",
       "Full_second": 41579,
       "dense_hour_min": "04:58",
-      "dense_second": 17910,
-      "dense_ratio": 0.4307
+      "dense_second": 17913.680000000004,
+      "dense_ratio": 0.4308
     },
     {
       "file": "simulation_b5900d62_16a03b6c_annotation.json",
@@ -3560,8 +3560,8 @@
       "full_hour_min": "14:57",
       "Full_second": 53879,
       "dense_hour_min": "04:59",
-      "dense_second": 17943,
-      "dense_ratio": 0.333
+      "dense_second": 17947.800000000003,
+      "dense_ratio": 0.3331
     },
     {
       "file": "simulation_3209faf3_ac323a37_annotation.json",
@@ -3575,8 +3575,8 @@
       "full_hour_min": "16:18",
       "Full_second": 58739,
       "dense_hour_min": "08:18",
-      "dense_second": 29918,
-      "dense_ratio": 0.5093
+      "dense_second": 29924.239999999998,
+      "dense_ratio": 0.5094
     },
     {
       "file": "simulation_6e5714e8_72003be4_annotation.json",
@@ -3590,8 +3590,8 @@
       "full_hour_min": "06:55",
       "Full_second": 24959,
       "dense_hour_min": "04:59",
-      "dense_second": 17951,
-      "dense_ratio": 0.7192
+      "dense_second": 17955.17,
+      "dense_ratio": 0.7194
     },
     {
       "file": "simulation_2a6e8d78_801a8468_annotation.json",
@@ -3605,8 +3605,8 @@
       "full_hour_min": "17:24",
       "Full_second": 62699,
       "dense_hour_min": "08:19",
-      "dense_second": 29945,
-      "dense_ratio": 0.4776
+      "dense_second": 29952.380000000005,
+      "dense_ratio": 0.4777
     },
     {
       "file": "simulation_e3ed1c5f_91cf3c5a_annotation.json",
@@ -3620,7 +3620,7 @@
       "full_hour_min": "17:04",
       "Full_second": 61499,
       "dense_hour_min": "02:14",
-      "dense_second": 8078,
+      "dense_second": 8079.879999999999,
       "dense_ratio": 0.1314
     },
     {
@@ -3635,7 +3635,7 @@
       "full_hour_min": "14:20",
       "Full_second": 51659,
       "dense_hour_min": "02:14",
-      "dense_second": 8093,
+      "dense_second": 8095.17,
       "dense_ratio": 0.1567
     },
     {
@@ -3650,8 +3650,8 @@
       "full_hour_min": "16:23",
       "Full_second": 59039,
       "dense_hour_min": "08:27",
-      "dense_second": 30453,
-      "dense_ratio": 0.5158
+      "dense_second": 30459.48,
+      "dense_ratio": 0.5159
     },
     {
       "file": "simulation_c64e5cb4_6f522694_annotation.json",
@@ -3665,7 +3665,7 @@
       "full_hour_min": "15:21",
       "Full_second": 55319,
       "dense_hour_min": "05:07",
-      "dense_second": 18442,
+      "dense_second": 18445.320000000003,
       "dense_ratio": 0.3334
     },
     {
@@ -3680,8 +3680,8 @@
       "full_hour_min": "16:11",
       "Full_second": 58319,
       "dense_hour_min": "05:07",
-      "dense_second": 18457,
-      "dense_ratio": 0.3165
+      "dense_second": 18461.739999999998,
+      "dense_ratio": 0.3166
     },
     {
       "file": "simulation_9a53639b_ab3d3e10_annotation.json",
@@ -3695,7 +3695,7 @@
       "full_hour_min": "16:35",
       "Full_second": 59759,
       "dense_hour_min": "05:07",
-      "dense_second": 18469,
+      "dense_second": 18472.85,
       "dense_ratio": 0.3091
     },
     {
@@ -3710,7 +3710,7 @@
       "full_hour_min": "14:25",
       "Full_second": 51959,
       "dense_hour_min": "05:08",
-      "dense_second": 18491,
+      "dense_second": 18494.170000000002,
       "dense_ratio": 0.3559
     },
     {
@@ -3725,8 +3725,8 @@
       "full_hour_min": "15:14",
       "Full_second": 54899,
       "dense_hour_min": "08:34",
-      "dense_second": 30876,
-      "dense_ratio": 0.5624
+      "dense_second": 30882.69,
+      "dense_ratio": 0.5625
     },
     {
       "file": "simulation_56cb5014_45868788_annotation.json",
@@ -3739,9 +3739,9 @@
       "missing_uids": [],
       "full_hour_min": "15:46",
       "Full_second": 56819,
-      "dense_hour_min": "08:35",
-      "dense_second": 30955,
-      "dense_ratio": 0.5448
+      "dense_hour_min": "08:36",
+      "dense_second": 30962.4,
+      "dense_ratio": 0.5449
     },
     {
       "file": "simulation_e49e35d7_e0c97af1_annotation.json",
@@ -3755,7 +3755,7 @@
       "full_hour_min": "16:15",
       "Full_second": 58559,
       "dense_hour_min": "02:17",
-      "dense_second": 8266,
+      "dense_second": 8268.11,
       "dense_ratio": 0.1412
     },
     {
@@ -3770,8 +3770,8 @@
       "full_hour_min": "15:24",
       "Full_second": 55499,
       "dense_hour_min": "02:18",
-      "dense_second": 8299,
-      "dense_ratio": 0.1495
+      "dense_second": 8300.94,
+      "dense_ratio": 0.1496
     },
     {
       "file": "simulation_0ef208a8_ec001e82_annotation.json",
@@ -3785,8 +3785,8 @@
       "full_hour_min": "14:57",
       "Full_second": 53879,
       "dense_hour_min": "05:11",
-      "dense_second": 18713,
-      "dense_ratio": 0.3473
+      "dense_second": 18718.25,
+      "dense_ratio": 0.3474
     },
     {
       "file": "simulation_63565db6_c9b85359_annotation.json",
@@ -3800,7 +3800,7 @@
       "full_hour_min": "12:52",
       "Full_second": 46379,
       "dense_hour_min": "02:18",
-      "dense_second": 8325,
+      "dense_second": 8326.72,
       "dense_ratio": 0.1795
     },
     {
@@ -3815,8 +3815,8 @@
       "full_hour_min": "13:30",
       "Full_second": 48659,
       "dense_hour_min": "08:43",
-      "dense_second": 31384,
-      "dense_ratio": 0.645
+      "dense_second": 31392.190000000002,
+      "dense_ratio": 0.6451
     },
     {
       "file": "simulation_2a6e8d78_6eea2d41_annotation.json",
@@ -3830,8 +3830,8 @@
       "full_hour_min": "16:59",
       "Full_second": 61199,
       "dense_hour_min": "05:14",
-      "dense_second": 18852,
-      "dense_ratio": 0.308
+      "dense_second": 18857.21,
+      "dense_ratio": 0.3081
     },
     {
       "file": "simulation_13e77945_4f0a12df_annotation.json",
@@ -3845,7 +3845,7 @@
       "full_hour_min": "12:57",
       "Full_second": 46679,
       "dense_hour_min": "02:19",
-      "dense_second": 8386,
+      "dense_second": 8388.55,
       "dense_ratio": 0.1797
     },
     {
@@ -3860,8 +3860,8 @@
       "full_hour_min": "18:48",
       "Full_second": 67739,
       "dense_hour_min": "08:45",
-      "dense_second": 31523,
-      "dense_ratio": 0.4654
+      "dense_second": 31529.390000000003,
+      "dense_ratio": 0.4655
     },
     {
       "file": "simulation_776291ec_f9b56eff_annotation.json",
@@ -3875,8 +3875,8 @@
       "full_hour_min": "14:44",
       "Full_second": 53099,
       "dense_hour_min": "05:17",
-      "dense_second": 19061,
-      "dense_ratio": 0.359
+      "dense_second": 19065.55,
+      "dense_ratio": 0.3591
     },
     {
       "file": "simulation_19a4247c_50f9b55b_annotation.json",
@@ -3890,8 +3890,8 @@
       "full_hour_min": "16:11",
       "Full_second": 58319,
       "dense_hour_min": "05:18",
-      "dense_second": 19084,
-      "dense_ratio": 0.3272
+      "dense_second": 19088.05,
+      "dense_ratio": 0.3273
     },
     {
       "file": "simulation_430347b5_3b728c25_annotation.json",
@@ -3905,8 +3905,8 @@
       "full_hour_min": "14:16",
       "Full_second": 51419,
       "dense_hour_min": "08:55",
-      "dense_second": 32109,
-      "dense_ratio": 0.6245
+      "dense_second": 32116.73,
+      "dense_ratio": 0.6246
     },
     {
       "file": "simulation_a879ae42_d4e07cb2_annotation.json",
@@ -3920,7 +3920,7 @@
       "full_hour_min": "13:36",
       "Full_second": 49019,
       "dense_hour_min": "02:22",
-      "dense_second": 8571,
+      "dense_second": 8571.32,
       "dense_ratio": 0.1749
     },
     {
@@ -3935,8 +3935,8 @@
       "full_hour_min": "15:22",
       "Full_second": 55379,
       "dense_hour_min": "05:21",
-      "dense_second": 19302,
-      "dense_ratio": 0.3485
+      "dense_second": 19304.67,
+      "dense_ratio": 0.3486
     },
     {
       "file": "simulation_7c2ee5b4_4aba3f5d_annotation.json",
@@ -3950,8 +3950,8 @@
       "full_hour_min": "17:14",
       "Full_second": 62099,
       "dense_hour_min": "08:56",
-      "dense_second": 32173,
-      "dense_ratio": 0.5181
+      "dense_second": 32179.26,
+      "dense_ratio": 0.5182
     },
     {
       "file": "simulation_1d4b9848_ef4ff415_annotation.json",
@@ -3965,8 +3965,8 @@
       "full_hour_min": "16:47",
       "Full_second": 60479,
       "dense_hour_min": "08:56",
-      "dense_second": 32192,
-      "dense_ratio": 0.5323
+      "dense_second": 32200.33,
+      "dense_ratio": 0.5324
     },
     {
       "file": "simulation_2a3432ac_ec3da33a_annotation.json",
@@ -3980,8 +3980,8 @@
       "full_hour_min": "17:46",
       "Full_second": 64019,
       "dense_hour_min": "08:58",
-      "dense_second": 32322,
-      "dense_ratio": 0.5049
+      "dense_second": 32328.700000000008,
+      "dense_ratio": 0.505
     },
     {
       "file": "simulation_6f447533_4ca388da_annotation.json",
@@ -3995,8 +3995,8 @@
       "full_hour_min": "14:15",
       "Full_second": 51359,
       "dense_hour_min": "08:59",
-      "dense_second": 32347,
-      "dense_ratio": 0.6298
+      "dense_second": 32354.52,
+      "dense_ratio": 0.63
     },
     {
       "file": "simulation_55ae50b0_ac30989a_annotation.json",
@@ -4010,8 +4010,8 @@
       "full_hour_min": "14:41",
       "Full_second": 52919,
       "dense_hour_min": "08:59",
-      "dense_second": 32378,
-      "dense_ratio": 0.6118
+      "dense_second": 32385.410000000003,
+      "dense_ratio": 0.612
     },
     {
       "file": "simulation_15887bd4_21bcf06a_annotation.json",
@@ -4025,8 +4025,8 @@
       "full_hour_min": "15:59",
       "Full_second": 57599,
       "dense_hour_min": "05:24",
-      "dense_second": 19481,
-      "dense_ratio": 0.3382
+      "dense_second": 19484.920000000002,
+      "dense_ratio": 0.3383
     },
     {
       "file": "simulation_2a3432ac_49893ec4_annotation.json",
@@ -4040,7 +4040,7 @@
       "full_hour_min": "18:04",
       "Full_second": 65099,
       "dense_hour_min": "02:24",
-      "dense_second": 8659,
+      "dense_second": 8660.45,
       "dense_ratio": 0.133
     },
     {
@@ -4055,8 +4055,8 @@
       "full_hour_min": "16:12",
       "Full_second": 58379,
       "dense_hour_min": "09:02",
-      "dense_second": 32536,
-      "dense_ratio": 0.5573
+      "dense_second": 32542.469999999998,
+      "dense_ratio": 0.5574
     },
     {
       "file": "simulation_5f88557d_277e417b_annotation.json",
@@ -4070,8 +4070,8 @@
       "full_hour_min": "15:56",
       "Full_second": 57419,
       "dense_hour_min": "09:03",
-      "dense_second": 32598,
-      "dense_ratio": 0.5677
+      "dense_second": 32603.68,
+      "dense_ratio": 0.5678
     },
     {
       "file": "simulation_962a2f12_9bdd2899_annotation.json",
@@ -4085,7 +4085,7 @@
       "full_hour_min": "16:17",
       "Full_second": 58679,
       "dense_hour_min": "05:26",
-      "dense_second": 19573,
+      "dense_second": 19576.95,
       "dense_ratio": 0.3336
     },
     {
@@ -4100,8 +4100,8 @@
       "full_hour_min": "17:05",
       "Full_second": 61559,
       "dense_hour_min": "05:29",
-      "dense_second": 19780,
-      "dense_ratio": 0.3213
+      "dense_second": 19783.820000000003,
+      "dense_ratio": 0.3214
     },
     {
       "file": "simulation_9a53639b_5841e67d_annotation.json",
@@ -4115,8 +4115,8 @@
       "full_hour_min": "16:45",
       "Full_second": 60359,
       "dense_hour_min": "09:13",
-      "dense_second": 33192,
-      "dense_ratio": 0.5499
+      "dense_second": 33196.76,
+      "dense_ratio": 0.55
     },
     {
       "file": "simulation_98fb96dc_1c93b67c_annotation.json",
@@ -4130,8 +4130,8 @@
       "full_hour_min": "16:01",
       "Full_second": 57719,
       "dense_hour_min": "09:13",
-      "dense_second": 33224,
-      "dense_ratio": 0.5756
+      "dense_second": 33231.99,
+      "dense_ratio": 0.5758
     },
     {
       "file": "simulation_2d5c49a4_43661769_annotation.json",
@@ -4145,8 +4145,8 @@
       "full_hour_min": "13:04",
       "Full_second": 47099,
       "dense_hour_min": "05:34",
-      "dense_second": 20042,
-      "dense_ratio": 0.4255
+      "dense_second": 20045.13,
+      "dense_ratio": 0.4256
     },
     {
       "file": "simulation_b413e3e0_c1114917_annotation.json",
@@ -4160,8 +4160,8 @@
       "full_hour_min": "17:23",
       "Full_second": 62639,
       "dense_hour_min": "09:18",
-      "dense_second": 33514,
-      "dense_ratio": 0.535
+      "dense_second": 33520.170000000006,
+      "dense_ratio": 0.5351
     },
     {
       "file": "simulation_e61cf5e7_b1a3270e_annotation.json",
@@ -4175,8 +4175,8 @@
       "full_hour_min": "16:14",
       "Full_second": 58499,
       "dense_hour_min": "05:35",
-      "dense_second": 20132,
-      "dense_ratio": 0.3441
+      "dense_second": 20135.890000000003,
+      "dense_ratio": 0.3442
     },
     {
       "file": "simulation_16dff80d_96d07091_annotation.json",
@@ -4190,7 +4190,7 @@
       "full_hour_min": "13:22",
       "Full_second": 48179,
       "dense_hour_min": "02:29",
-      "dense_second": 8980,
+      "dense_second": 8981.62,
       "dense_ratio": 0.1864
     },
     {
@@ -4205,7 +4205,7 @@
       "full_hour_min": "14:34",
       "Full_second": 52499,
       "dense_hour_min": "02:30",
-      "dense_second": 9033,
+      "dense_second": 9033.95,
       "dense_ratio": 0.1721
     },
     {
@@ -4220,8 +4220,8 @@
       "full_hour_min": "13:06",
       "Full_second": 47219,
       "dense_hour_min": "05:40",
-      "dense_second": 20434,
-      "dense_ratio": 0.4327
+      "dense_second": 20439.019999999997,
+      "dense_ratio": 0.4329
     },
     {
       "file": "simulation_4dc98343_a38d99db_annotation.json",
@@ -4235,8 +4235,8 @@
       "full_hour_min": "15:00",
       "Full_second": 54059,
       "dense_hour_min": "02:31",
-      "dense_second": 9089,
-      "dense_ratio": 0.1681
+      "dense_second": 9090.54,
+      "dense_ratio": 0.1682
     },
     {
       "file": "simulation_cb6b7494_3efb861d_annotation.json",
@@ -4249,9 +4249,9 @@
       "missing_uids": [],
       "full_hour_min": "16:20",
       "Full_second": 58859,
-      "dense_hour_min": "05:41",
-      "dense_second": 20519,
-      "dense_ratio": 0.3486
+      "dense_hour_min": "05:42",
+      "dense_second": 20521.370000000003,
+      "dense_ratio": 0.3487
     },
     {
       "file": "simulation_d1ce4e43_9fbc6e04_annotation.json",
@@ -4265,8 +4265,8 @@
       "full_hour_min": "14:54",
       "Full_second": 53699,
       "dense_hour_min": "09:30",
-      "dense_second": 34250,
-      "dense_ratio": 0.6378
+      "dense_second": 34257.74,
+      "dense_ratio": 0.638
     },
     {
       "file": "simulation_a6e94eba_6a1f8cd6_annotation.json",
@@ -4280,8 +4280,8 @@
       "full_hour_min": "16:47",
       "Full_second": 60479,
       "dense_hour_min": "09:32",
-      "dense_second": 34356,
-      "dense_ratio": 0.5681
+      "dense_second": 34363.21000000001,
+      "dense_ratio": 0.5682
     },
     {
       "file": "simulation_c38f2ebc_beb2c2df_annotation.json",
@@ -4295,8 +4295,8 @@
       "full_hour_min": "14:45",
       "Full_second": 53159,
       "dense_hour_min": "09:33",
-      "dense_second": 34424,
-      "dense_ratio": 0.6476
+      "dense_second": 34431.55,
+      "dense_ratio": 0.6477
     },
     {
       "file": "simulation_b5900d62_1358b5dd_annotation.json",
@@ -4310,8 +4310,8 @@
       "full_hour_min": "18:29",
       "Full_second": 66599,
       "dense_hour_min": "09:33",
-      "dense_second": 34431,
-      "dense_ratio": 0.517
+      "dense_second": 34436.869999999995,
+      "dense_ratio": 0.5171
     },
     {
       "file": "simulation_dd88a904_4489fb33_annotation.json",
@@ -4325,8 +4325,8 @@
       "full_hour_min": "18:12",
       "Full_second": 65579,
       "dense_hour_min": "05:44",
-      "dense_second": 20685,
-      "dense_ratio": 0.3154
+      "dense_second": 20688.8,
+      "dense_ratio": 0.3155
     },
     {
       "file": "simulation_34eee6be_63f706cc_annotation.json",
@@ -4340,8 +4340,8 @@
       "full_hour_min": "14:55",
       "Full_second": 53759,
       "dense_hour_min": "09:36",
-      "dense_second": 34607,
-      "dense_ratio": 0.6437
+      "dense_second": 34612.950000000004,
+      "dense_ratio": 0.6439
     },
     {
       "file": "simulation_60362a09_8f0733f8_annotation.json",
@@ -4355,8 +4355,8 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "02:34",
-      "dense_second": 9287,
-      "dense_ratio": 0.1634
+      "dense_second": 9287.97,
+      "dense_ratio": 0.1635
     },
     {
       "file": "simulation_0ef208a8_9e7c6072_annotation.json",
@@ -4370,23 +4370,8 @@
       "full_hour_min": "17:04",
       "Full_second": 61499,
       "dense_hour_min": "09:40",
-      "dense_second": 34836,
-      "dense_ratio": 0.5664
-    },
-    {
-      "file": "simulation_1cca9f57_57c6ded3_annotation.json",
-      "total": 15,
-      "present": 15,
-      "missing": 0,
-      "presence_ratio": 1.0,
-      "all_present": true,
-      "almost_all_present": false,
-      "missing_uids": [],
-      "full_hour_min": "16:44",
-      "Full_second": 60299,
-      "dense_hour_min": "09:40",
-      "dense_second": 34855,
-      "dense_ratio": 0.578
+      "dense_second": 34842.600000000006,
+      "dense_ratio": 0.5666
     },
     {
       "file": "simulation_04b851e4_95d56ac2_annotation.json",
@@ -4400,8 +4385,23 @@
       "full_hour_min": "13:00",
       "Full_second": 46859,
       "dense_hour_min": "02:34",
-      "dense_second": 9295,
+      "dense_second": 9296.11,
       "dense_ratio": 0.1984
+    },
+    {
+      "file": "simulation_1cca9f57_57c6ded3_annotation.json",
+      "total": 15,
+      "present": 15,
+      "missing": 0,
+      "presence_ratio": 1.0,
+      "all_present": true,
+      "almost_all_present": false,
+      "missing_uids": [],
+      "full_hour_min": "16:44",
+      "Full_second": 60299,
+      "dense_hour_min": "09:41",
+      "dense_second": 34861.2,
+      "dense_ratio": 0.5781
     },
     {
       "file": "simulation_39cde737_e20b9211_annotation.json",
@@ -4415,8 +4415,8 @@
       "full_hour_min": "14:56",
       "Full_second": 53819,
       "dense_hour_min": "09:44",
-      "dense_second": 35057,
-      "dense_ratio": 0.6514
+      "dense_second": 35064.43000000001,
+      "dense_ratio": 0.6515
     },
     {
       "file": "simulation_6324f914_424b422e_annotation.json",
@@ -4430,8 +4430,8 @@
       "full_hour_min": "13:06",
       "Full_second": 47219,
       "dense_hour_min": "09:45",
-      "dense_second": 35135,
-      "dense_ratio": 0.7441
+      "dense_second": 35141.51999999999,
+      "dense_ratio": 0.7442
     },
     {
       "file": "simulation_45a22392_cb5f8514_annotation.json",
@@ -4445,7 +4445,7 @@
       "full_hour_min": "16:44",
       "Full_second": 60299,
       "dense_hour_min": "02:36",
-      "dense_second": 9370,
+      "dense_second": 9371.15,
       "dense_ratio": 0.1554
     },
     {
@@ -4460,8 +4460,8 @@
       "full_hour_min": "14:29",
       "Full_second": 52199,
       "dense_hour_min": "02:36",
-      "dense_second": 9387,
-      "dense_ratio": 0.1798
+      "dense_second": 9388.28,
+      "dense_ratio": 0.1799
     },
     {
       "file": "simulation_317754ce_8ea7f241_annotation.json",
@@ -4475,8 +4475,8 @@
       "full_hour_min": "16:16",
       "Full_second": 58619,
       "dense_hour_min": "09:46",
-      "dense_second": 35202,
-      "dense_ratio": 0.6005
+      "dense_second": 35209.64,
+      "dense_ratio": 0.6007
     },
     {
       "file": "simulation_2a6e8d78_1ff47d8f_annotation.json",
@@ -4490,7 +4490,7 @@
       "full_hour_min": "15:35",
       "Full_second": 56159,
       "dense_hour_min": "02:36",
-      "dense_second": 9388,
+      "dense_second": 9390.650000000001,
       "dense_ratio": 0.1672
     },
     {
@@ -4505,8 +4505,8 @@
       "full_hour_min": "10:06",
       "Full_second": 36419,
       "dense_hour_min": "05:53",
-      "dense_second": 21215,
-      "dense_ratio": 0.5825
+      "dense_second": 21218.44,
+      "dense_ratio": 0.5826
     },
     {
       "file": "simulation_5a38c5af_69b28cb5_annotation.json",
@@ -4520,8 +4520,8 @@
       "full_hour_min": "17:13",
       "Full_second": 62039,
       "dense_hour_min": "09:57",
-      "dense_second": 35861,
-      "dense_ratio": 0.578
+      "dense_second": 35866.219999999994,
+      "dense_ratio": 0.5781
     },
     {
       "file": "simulation_3209faf3_808646b8_annotation.json",
@@ -4535,8 +4535,8 @@
       "full_hour_min": "15:47",
       "Full_second": 56879,
       "dense_hour_min": "05:58",
-      "dense_second": 21525,
-      "dense_ratio": 0.3784
+      "dense_second": 21529.26,
+      "dense_ratio": 0.3785
     },
     {
       "file": "simulation_0e8a7eee_fd239ada_annotation.json",
@@ -4550,7 +4550,7 @@
       "full_hour_min": "14:55",
       "Full_second": 53759,
       "dense_hour_min": "02:39",
-      "dense_second": 9588,
+      "dense_second": 9588.580000000002,
       "dense_ratio": 0.1784
     },
     {
@@ -4565,7 +4565,7 @@
       "full_hour_min": "15:25",
       "Full_second": 55559,
       "dense_hour_min": "06:00",
-      "dense_second": 21649,
+      "dense_second": 21651.95,
       "dense_ratio": 0.3897
     },
     {
@@ -4580,7 +4580,7 @@
       "full_hour_min": "15:46",
       "Full_second": 56819,
       "dense_hour_min": "02:40",
-      "dense_second": 9654,
+      "dense_second": 9656.02,
       "dense_ratio": 0.1699
     },
     {
@@ -4595,8 +4595,8 @@
       "full_hour_min": "14:57",
       "Full_second": 53879,
       "dense_hour_min": "06:02",
-      "dense_second": 21764,
-      "dense_ratio": 0.4039
+      "dense_second": 21769.300000000003,
+      "dense_ratio": 0.404
     },
     {
       "file": "simulation_32f31f24_5ab49579_annotation.json",
@@ -4610,8 +4610,8 @@
       "full_hour_min": "16:43",
       "Full_second": 60239,
       "dense_hour_min": "10:07",
-      "dense_second": 36470,
-      "dense_ratio": 0.6054
+      "dense_second": 36476.56999999999,
+      "dense_ratio": 0.6055
     },
     {
       "file": "simulation_69c08687_9c4252a0_annotation.json",
@@ -4624,9 +4624,9 @@
       "missing_uids": [],
       "full_hour_min": "15:47",
       "Full_second": 56879,
-      "dense_hour_min": "10:08",
-      "dense_second": 36535,
-      "dense_ratio": 0.6423
+      "dense_hour_min": "10:09",
+      "dense_second": 36543.93,
+      "dense_ratio": 0.6425
     },
     {
       "file": "simulation_e66ab513_41b0e5ff_annotation.json",
@@ -4640,8 +4640,8 @@
       "full_hour_min": "15:29",
       "Full_second": 55799,
       "dense_hour_min": "10:12",
-      "dense_second": 36738,
-      "dense_ratio": 0.6584
+      "dense_second": 36744.16,
+      "dense_ratio": 0.6585
     },
     {
       "file": "simulation_04b851e4_7a0c4292_annotation.json",
@@ -4655,7 +4655,7 @@
       "full_hour_min": "14:53",
       "Full_second": 53639,
       "dense_hour_min": "06:09",
-      "dense_second": 22157,
+      "dense_second": 22160.890000000003,
       "dense_ratio": 0.4131
     },
     {
@@ -4670,8 +4670,8 @@
       "full_hour_min": "15:52",
       "Full_second": 57179,
       "dense_hour_min": "10:15",
-      "dense_second": 36936,
-      "dense_ratio": 0.646
+      "dense_second": 36941.43,
+      "dense_ratio": 0.6461
     },
     {
       "file": "simulation_68aa5fbc_884bcbb6_annotation.json",
@@ -4684,9 +4684,9 @@
       "missing_uids": [],
       "full_hour_min": "16:57",
       "Full_second": 61079,
-      "dense_hour_min": "10:17",
-      "dense_second": 37075,
-      "dense_ratio": 0.607
+      "dense_hour_min": "10:18",
+      "dense_second": 37082.45,
+      "dense_ratio": 0.6071
     },
     {
       "file": "simulation_9c6e2813_a2515611_annotation.json",
@@ -4700,7 +4700,7 @@
       "full_hour_min": "16:17",
       "Full_second": 58679,
       "dense_hour_min": "06:11",
-      "dense_second": 22297,
+      "dense_second": 22300.070000000003,
       "dense_ratio": 0.38
     },
     {
@@ -4715,8 +4715,8 @@
       "full_hour_min": "16:55",
       "Full_second": 60959,
       "dense_hour_min": "06:12",
-      "dense_second": 22335,
-      "dense_ratio": 0.3664
+      "dense_second": 22338.89,
+      "dense_ratio": 0.3665
     },
     {
       "file": "simulation_1d4b9848_007a7244_annotation.json",
@@ -4730,8 +4730,8 @@
       "full_hour_min": "14:57",
       "Full_second": 53879,
       "dense_hour_min": "02:45",
-      "dense_second": 9931,
-      "dense_ratio": 0.1843
+      "dense_second": 9933.96,
+      "dense_ratio": 0.1844
     },
     {
       "file": "simulation_19a4247c_4bdb9f85_annotation.json",
@@ -4745,7 +4745,7 @@
       "full_hour_min": "20:22",
       "Full_second": 73379,
       "dense_hour_min": "10:21",
-      "dense_second": 37281,
+      "dense_second": 37286.63,
       "dense_ratio": 0.5081
     },
     {
@@ -4760,8 +4760,8 @@
       "full_hour_min": "16:17",
       "Full_second": 58679,
       "dense_hour_min": "06:13",
-      "dense_second": 22388,
-      "dense_ratio": 0.3815
+      "dense_second": 22391.769999999997,
+      "dense_ratio": 0.3816
     },
     {
       "file": "simulation_a4714336_259a78cf_annotation.json",
@@ -4775,7 +4775,7 @@
       "full_hour_min": "15:29",
       "Full_second": 55799,
       "dense_hour_min": "02:46",
-      "dense_second": 9969,
+      "dense_second": 9970.900000000001,
       "dense_ratio": 0.1787
     },
     {
@@ -4790,8 +4790,8 @@
       "full_hour_min": "16:38",
       "Full_second": 59939,
       "dense_hour_min": "06:14",
-      "dense_second": 22467,
-      "dense_ratio": 0.3748
+      "dense_second": 22470.93,
+      "dense_ratio": 0.3749
     },
     {
       "file": "simulation_c64e5cb4_7ec23cc6_annotation.json",
@@ -4805,8 +4805,8 @@
       "full_hour_min": "13:56",
       "Full_second": 50219,
       "dense_hour_min": "02:46",
-      "dense_second": 10006,
-      "dense_ratio": 0.1992
+      "dense_second": 10007.91,
+      "dense_ratio": 0.1993
     },
     {
       "file": "simulation_98fb96dc_b9788144_annotation.json",
@@ -4820,7 +4820,7 @@
       "full_hour_min": "14:27",
       "Full_second": 52079,
       "dense_hour_min": "02:47",
-      "dense_second": 10072,
+      "dense_second": 10073.15,
       "dense_ratio": 0.1934
     },
     {
@@ -4835,8 +4835,8 @@
       "full_hour_min": "16:42",
       "Full_second": 60179,
       "dense_hour_min": "10:39",
-      "dense_second": 38351,
-      "dense_ratio": 0.6373
+      "dense_second": 38358.1,
+      "dense_ratio": 0.6374
     },
     {
       "file": "simulation_0c4a73fc_fd7bc983_annotation.json",
@@ -4850,8 +4850,8 @@
       "full_hour_min": "15:08",
       "Full_second": 54539,
       "dense_hour_min": "10:40",
-      "dense_second": 38412,
-      "dense_ratio": 0.7043
+      "dense_second": 38418.68,
+      "dense_ratio": 0.7044
     },
     {
       "file": "simulation_dd88a904_372be27e_annotation.json",
@@ -4865,7 +4865,7 @@
       "full_hour_min": "15:53",
       "Full_second": 57239,
       "dense_hour_min": "02:51",
-      "dense_second": 10289,
+      "dense_second": 10291.68,
       "dense_ratio": 0.1798
     },
     {
@@ -4880,8 +4880,8 @@
       "full_hour_min": "18:11",
       "Full_second": 65519,
       "dense_hour_min": "10:43",
-      "dense_second": 38608,
-      "dense_ratio": 0.5893
+      "dense_second": 38614.56,
+      "dense_ratio": 0.5894
     },
     {
       "file": "simulation_a2dec61c_d38d7dc9_annotation.json",
@@ -4895,8 +4895,8 @@
       "full_hour_min": "13:05",
       "Full_second": 47159,
       "dense_hour_min": "02:53",
-      "dense_second": 10382,
-      "dense_ratio": 0.2201
+      "dense_second": 10382.820000000002,
+      "dense_ratio": 0.2202
     },
     {
       "file": "simulation_29cf15e4_31e5072a_annotation.json",
@@ -4910,7 +4910,7 @@
       "full_hour_min": "09:36",
       "Full_second": 34619,
       "dense_hour_min": "02:53",
-      "dense_second": 10392,
+      "dense_second": 10394.07,
       "dense_ratio": 0.3002
     },
     {
@@ -4925,8 +4925,8 @@
       "full_hour_min": "17:51",
       "Full_second": 64319,
       "dense_hour_min": "10:52",
-      "dense_second": 39140,
-      "dense_ratio": 0.6085
+      "dense_second": 39146.090000000004,
+      "dense_ratio": 0.6086
     },
     {
       "file": "simulation_2d5c49a4_8e2ebb70_annotation.json",
@@ -4940,8 +4940,8 @@
       "full_hour_min": "16:21",
       "Full_second": 58919,
       "dense_hour_min": "10:55",
-      "dense_second": 39309,
-      "dense_ratio": 0.6672
+      "dense_second": 39315.22,
+      "dense_ratio": 0.6673
     },
     {
       "file": "simulation_cf1bf0fe_a2f4554e_annotation.json",
@@ -4955,8 +4955,8 @@
       "full_hour_min": "15:14",
       "Full_second": 54899,
       "dense_hour_min": "10:56",
-      "dense_second": 39393,
-      "dense_ratio": 0.7176
+      "dense_second": 39400.34,
+      "dense_ratio": 0.7177
     },
     {
       "file": "simulation_2195f3a6_514a6796_annotation.json",
@@ -4969,9 +4969,9 @@
       "missing_uids": [],
       "full_hour_min": "18:03",
       "Full_second": 65039,
-      "dense_hour_min": "10:57",
-      "dense_second": 39477,
-      "dense_ratio": 0.607
+      "dense_hour_min": "10:58",
+      "dense_second": 39484.7,
+      "dense_ratio": 0.6071
     },
     {
       "file": "simulation_af7a14dd_89e0fab6_annotation.json",
@@ -4985,8 +4985,8 @@
       "full_hour_min": "16:55",
       "Full_second": 60959,
       "dense_hour_min": "10:59",
-      "dense_second": 39593,
-      "dense_ratio": 0.6495
+      "dense_second": 39599.78,
+      "dense_ratio": 0.6496
     },
     {
       "file": "simulation_c38f2ebc_870e846b_annotation.json",
@@ -5000,8 +5000,8 @@
       "full_hour_min": "16:21",
       "Full_second": 58919,
       "dense_hour_min": "06:37",
-      "dense_second": 23869,
-      "dense_ratio": 0.4051
+      "dense_second": 23872.550000000007,
+      "dense_ratio": 0.4052
     },
     {
       "file": "simulation_7407ecfb_272dcabb_annotation.json",
@@ -5015,7 +5015,7 @@
       "full_hour_min": "11:38",
       "Full_second": 41939,
       "dense_hour_min": "02:56",
-      "dense_second": 10615,
+      "dense_second": 10616.3,
       "dense_ratio": 0.2531
     },
     {
@@ -5030,7 +5030,7 @@
       "full_hour_min": "15:12",
       "Full_second": 54779,
       "dense_hour_min": "02:57",
-      "dense_second": 10633,
+      "dense_second": 10634.55,
       "dense_ratio": 0.1941
     },
     {
@@ -5045,7 +5045,7 @@
       "full_hour_min": "16:01",
       "Full_second": 57719,
       "dense_hour_min": "06:40",
-      "dense_second": 24032,
+      "dense_second": 24036.93,
       "dense_ratio": 0.4164
     },
     {
@@ -5060,8 +5060,8 @@
       "full_hour_min": "15:45",
       "Full_second": 56759,
       "dense_hour_min": "06:41",
-      "dense_second": 24108,
-      "dense_ratio": 0.4247
+      "dense_second": 24110.489999999998,
+      "dense_ratio": 0.4248
     },
     {
       "file": "simulation_4e3b862d_247b134e_annotation.json",
@@ -5075,8 +5075,8 @@
       "full_hour_min": "15:38",
       "Full_second": 56339,
       "dense_hour_min": "11:13",
-      "dense_second": 40403,
-      "dense_ratio": 0.7171
+      "dense_second": 40408.43000000001,
+      "dense_ratio": 0.7172
     },
     {
       "file": "simulation_68697e7a_8f67ef27_annotation.json",
@@ -5090,7 +5090,7 @@
       "full_hour_min": "14:19",
       "Full_second": 51599,
       "dense_hour_min": "03:00",
-      "dense_second": 10809,
+      "dense_second": 10810.07,
       "dense_ratio": 0.2095
     },
     {
@@ -5105,7 +5105,7 @@
       "full_hour_min": "15:07",
       "Full_second": 54479,
       "dense_hour_min": "03:00",
-      "dense_second": 10817,
+      "dense_second": 10819.009999999998,
       "dense_ratio": 0.1986
     },
     {
@@ -5120,8 +5120,8 @@
       "full_hour_min": "13:44",
       "Full_second": 49499,
       "dense_hour_min": "03:00",
-      "dense_second": 10847,
-      "dense_ratio": 0.2191
+      "dense_second": 10849.310000000001,
+      "dense_ratio": 0.2192
     },
     {
       "file": "simulation_70dc627d_7116d37f_annotation.json",
@@ -5135,8 +5135,8 @@
       "full_hour_min": "14:42",
       "Full_second": 52979,
       "dense_hour_min": "11:18",
-      "dense_second": 40722,
-      "dense_ratio": 0.7686
+      "dense_second": 40730.530000000006,
+      "dense_ratio": 0.7688
     },
     {
       "file": "simulation_4dc98343_b0ece64d_annotation.json",
@@ -5150,8 +5150,8 @@
       "full_hour_min": "15:30",
       "Full_second": 55859,
       "dense_hour_min": "11:19",
-      "dense_second": 40790,
-      "dense_ratio": 0.7302
+      "dense_second": 40798.21000000001,
+      "dense_ratio": 0.7304
     },
     {
       "file": "simulation_e3ed1c5f_e82a1335_annotation.json",
@@ -5165,7 +5165,7 @@
       "full_hour_min": "17:16",
       "Full_second": 62219,
       "dense_hour_min": "06:49",
-      "dense_second": 24582,
+      "dense_second": 24585.430000000004,
       "dense_ratio": 0.3951
     },
     {
@@ -5180,8 +5180,8 @@
       "full_hour_min": "17:06",
       "Full_second": 61619,
       "dense_hour_min": "11:23",
-      "dense_second": 41024,
-      "dense_ratio": 0.6658
+      "dense_second": 41030.46,
+      "dense_ratio": 0.6659
     },
     {
       "file": "simulation_0e8a7eee_7e4bf011_annotation.json",
@@ -5195,8 +5195,8 @@
       "full_hour_min": "19:55",
       "Full_second": 71759,
       "dense_hour_min": "11:25",
-      "dense_second": 41132,
-      "dense_ratio": 0.5732
+      "dense_second": 41137.04,
+      "dense_ratio": 0.5733
     },
     {
       "file": "simulation_9c6e2813_41a54ab8_annotation.json",
@@ -5210,8 +5210,8 @@
       "full_hour_min": "17:39",
       "Full_second": 63599,
       "dense_hour_min": "11:26",
-      "dense_second": 41210,
-      "dense_ratio": 0.648
+      "dense_second": 41216.35,
+      "dense_ratio": 0.6481
     },
     {
       "file": "simulation_9275408c_2fcff266_annotation.json",
@@ -5225,8 +5225,8 @@
       "full_hour_min": "14:19",
       "Full_second": 51599,
       "dense_hour_min": "03:03",
-      "dense_second": 10998,
-      "dense_ratio": 0.2131
+      "dense_second": 10999.89,
+      "dense_ratio": 0.2132
     },
     {
       "file": "simulation_f129267e_fb064bab_annotation.json",
@@ -5240,8 +5240,8 @@
       "full_hour_min": "15:58",
       "Full_second": 57539,
       "dense_hour_min": "11:30",
-      "dense_second": 41404,
-      "dense_ratio": 0.7196
+      "dense_second": 41411.36,
+      "dense_ratio": 0.7197
     },
     {
       "file": "simulation_c5e59c04_934d5a75_annotation.json",
@@ -5255,8 +5255,8 @@
       "full_hour_min": "16:30",
       "Full_second": 59459,
       "dense_hour_min": "06:54",
-      "dense_second": 24854,
-      "dense_ratio": 0.418
+      "dense_second": 24858.190000000002,
+      "dense_ratio": 0.4181
     },
     {
       "file": "simulation_6a32188e_66384f3f_annotation.json",
@@ -5270,8 +5270,8 @@
       "full_hour_min": "15:24",
       "Full_second": 55499,
       "dense_hour_min": "06:54",
-      "dense_second": 24879,
-      "dense_ratio": 0.4483
+      "dense_second": 24884.47,
+      "dense_ratio": 0.4484
     },
     {
       "file": "simulation_694c39b1_a9a64ce1_annotation.json",
@@ -5284,9 +5284,9 @@
       "missing_uids": [],
       "full_hour_min": "16:32",
       "Full_second": 59579,
-      "dense_hour_min": "11:31",
-      "dense_second": 41517,
-      "dense_ratio": 0.6968
+      "dense_hour_min": "11:32",
+      "dense_second": 41522.25,
+      "dense_ratio": 0.6969
     },
     {
       "file": "simulation_1362d15a_7836d583_annotation.json",
@@ -5300,8 +5300,8 @@
       "full_hour_min": "16:20",
       "Full_second": 58859,
       "dense_hour_min": "11:32",
-      "dense_second": 41529,
-      "dense_ratio": 0.7056
+      "dense_second": 41536.060000000005,
+      "dense_ratio": 0.7057
     },
     {
       "file": "simulation_6f447533_6927e4de_annotation.json",
@@ -5315,8 +5315,8 @@
       "full_hour_min": "13:51",
       "Full_second": 49919,
       "dense_hour_min": "06:55",
-      "dense_second": 24922,
-      "dense_ratio": 0.4992
+      "dense_second": 24926.05,
+      "dense_ratio": 0.4993
     },
     {
       "file": "simulation_6a32188e_40c62a04_annotation.json",
@@ -5330,7 +5330,7 @@
       "full_hour_min": "20:45",
       "Full_second": 74759,
       "dense_hour_min": "11:33",
-      "dense_second": 41585,
+      "dense_second": 41592.130000000005,
       "dense_ratio": 0.5563
     },
     {
@@ -5345,8 +5345,8 @@
       "full_hour_min": "15:27",
       "Full_second": 55679,
       "dense_hour_min": "06:57",
-      "dense_second": 25028,
-      "dense_ratio": 0.4495
+      "dense_second": 25032.570000000003,
+      "dense_ratio": 0.4496
     },
     {
       "file": "simulation_60362a09_6ae4fb28_annotation.json",
@@ -5360,8 +5360,8 @@
       "full_hour_min": "18:49",
       "Full_second": 67799,
       "dense_hour_min": "11:35",
-      "dense_second": 41753,
-      "dense_ratio": 0.6158
+      "dense_second": 41758.86,
+      "dense_ratio": 0.6159
     },
     {
       "file": "simulation_87e5be9e_5cf659d2_annotation.json",
@@ -5375,7 +5375,7 @@
       "full_hour_min": "18:00",
       "Full_second": 64859,
       "dense_hour_min": "07:03",
-      "dense_second": 25424,
+      "dense_second": 25427.47,
       "dense_ratio": 0.392
     },
     {
@@ -5390,8 +5390,8 @@
       "full_hour_min": "14:19",
       "Full_second": 51599,
       "dense_hour_min": "07:05",
-      "dense_second": 25536,
-      "dense_ratio": 0.4949
+      "dense_second": 25540.97,
+      "dense_ratio": 0.495
     },
     {
       "file": "simulation_279abe55_3678ace7_annotation.json",
@@ -5405,8 +5405,8 @@
       "full_hour_min": "15:47",
       "Full_second": 56879,
       "dense_hour_min": "07:05",
-      "dense_second": 25541,
-      "dense_ratio": 0.449
+      "dense_second": 25544.690000000002,
+      "dense_ratio": 0.4491
     },
     {
       "file": "simulation_5c1dd4c5_8a3aa4e6_annotation.json",
@@ -5420,7 +5420,7 @@
       "full_hour_min": "14:55",
       "Full_second": 53759,
       "dense_hour_min": "03:09",
-      "dense_second": 11385,
+      "dense_second": 11386.710000000001,
       "dense_ratio": 0.2118
     },
     {
@@ -5435,7 +5435,7 @@
       "full_hour_min": "13:57",
       "Full_second": 50279,
       "dense_hour_min": "07:10",
-      "dense_second": 25851,
+      "dense_second": 25854.16,
       "dense_ratio": 0.5142
     },
     {
@@ -5450,8 +5450,8 @@
       "full_hour_min": "13:18",
       "Full_second": 47939,
       "dense_hour_min": "07:16",
-      "dense_second": 26164,
-      "dense_ratio": 0.5458
+      "dense_second": 26168.079999999998,
+      "dense_ratio": 0.5459
     },
     {
       "file": "simulation_af30f407_9bf1fd8a_annotation.json",
@@ -5465,7 +5465,7 @@
       "full_hour_min": "16:59",
       "Full_second": 61199,
       "dense_hour_min": "07:16",
-      "dense_second": 26187,
+      "dense_second": 26189.83,
       "dense_ratio": 0.4279
     },
     {
@@ -5480,8 +5480,8 @@
       "full_hour_min": "17:21",
       "Full_second": 62519,
       "dense_hour_min": "12:14",
-      "dense_second": 44075,
-      "dense_ratio": 0.705
+      "dense_second": 44080.74999999999,
+      "dense_ratio": 0.7051
     },
     {
       "file": "simulation_eb4645c4_dd27ff12_annotation.json",
@@ -5495,8 +5495,8 @@
       "full_hour_min": "16:55",
       "Full_second": 60959,
       "dense_hour_min": "12:16",
-      "dense_second": 44211,
-      "dense_ratio": 0.7253
+      "dense_second": 44217.58000000001,
+      "dense_ratio": 0.7254
     },
     {
       "file": "simulation_0c499892_97a822d3_annotation.json",
@@ -5509,8 +5509,8 @@
       "missing_uids": [],
       "full_hour_min": "17:29",
       "Full_second": 62999,
-      "dense_hour_min": "07:22",
-      "dense_second": 26578,
+      "dense_hour_min": "07:23",
+      "dense_second": 26580.19,
       "dense_ratio": 0.4219
     },
     {
@@ -5525,8 +5525,8 @@
       "full_hour_min": "17:58",
       "Full_second": 64739,
       "dense_hour_min": "12:19",
-      "dense_second": 44383,
-      "dense_ratio": 0.6856
+      "dense_second": 44389.96000000001,
+      "dense_ratio": 0.6857
     },
     {
       "file": "simulation_a4c1e5ad_d51d0fe4_annotation.json",
@@ -5540,7 +5540,7 @@
       "full_hour_min": "14:01",
       "Full_second": 50519,
       "dense_hour_min": "03:20",
-      "dense_second": 12028,
+      "dense_second": 12029.539999999999,
       "dense_ratio": 0.2381
     },
     {
@@ -5555,8 +5555,8 @@
       "full_hour_min": "15:16",
       "Full_second": 55019,
       "dense_hour_min": "07:42",
-      "dense_second": 27766,
-      "dense_ratio": 0.5047
+      "dense_second": 27771.68,
+      "dense_ratio": 0.5048
     },
     {
       "file": "simulation_962a2f12_438e2a45_annotation.json",
@@ -5570,8 +5570,8 @@
       "full_hour_min": "17:24",
       "Full_second": 62699,
       "dense_hour_min": "12:59",
-      "dense_second": 46741,
-      "dense_ratio": 0.7455
+      "dense_second": 46747.630000000005,
+      "dense_ratio": 0.7456
     },
     {
       "file": "simulation_cf1bf0fe_a0c0cfac_annotation.json",
@@ -5585,8 +5585,8 @@
       "full_hour_min": "15:13",
       "Full_second": 54839,
       "dense_hour_min": "07:47",
-      "dense_second": 28045,
-      "dense_ratio": 0.5114
+      "dense_second": 28050.69,
+      "dense_ratio": 0.5115
     },
     {
       "file": "simulation_b24f550e_0f16d5b3_annotation.json",
@@ -5600,8 +5600,8 @@
       "full_hour_min": "18:23",
       "Full_second": 66239,
       "dense_hour_min": "13:01",
-      "dense_second": 46865,
-      "dense_ratio": 0.7075
+      "dense_second": 46871.21,
+      "dense_ratio": 0.7076
     },
     {
       "file": "simulation_34eee6be_04328449_annotation.json",
@@ -5615,7 +5615,7 @@
       "full_hour_min": "14:42",
       "Full_second": 52979,
       "dense_hour_min": "03:28",
-      "dense_second": 12535,
+      "dense_second": 12536.939999999999,
       "dense_ratio": 0.2366
     },
     {
@@ -5630,8 +5630,8 @@
       "full_hour_min": "17:34",
       "Full_second": 63299,
       "dense_hour_min": "13:04",
-      "dense_second": 47057,
-      "dense_ratio": 0.7434
+      "dense_second": 47063.02,
+      "dense_ratio": 0.7435
     },
     {
       "file": "simulation_4dc98343_dd81888a_annotation.json",
@@ -5644,9 +5644,9 @@
       "missing_uids": [],
       "full_hour_min": "11:13",
       "Full_second": 40439,
-      "dense_hour_min": "07:50",
-      "dense_second": 28258,
-      "dense_ratio": 0.6988
+      "dense_hour_min": "07:51",
+      "dense_second": 28262.22,
+      "dense_ratio": 0.6989
     },
     {
       "file": "simulation_cd358fec_fcce73a4_annotation.json",
@@ -5660,8 +5660,8 @@
       "full_hour_min": "16:56",
       "Full_second": 61019,
       "dense_hour_min": "07:51",
-      "dense_second": 28290,
-      "dense_ratio": 0.4636
+      "dense_second": 28293.64,
+      "dense_ratio": 0.4637
     },
     {
       "file": "simulation_e8109bbf_66929b38_annotation.json",
@@ -5675,8 +5675,8 @@
       "full_hour_min": "16:18",
       "Full_second": 58739,
       "dense_hour_min": "13:06",
-      "dense_second": 47174,
-      "dense_ratio": 0.8031
+      "dense_second": 47181.280000000006,
+      "dense_ratio": 0.8032
     },
     {
       "file": "simulation_f4fe6112_e7e0a500_annotation.json",
@@ -5690,8 +5690,8 @@
       "full_hour_min": "15:11",
       "Full_second": 54719,
       "dense_hour_min": "03:30",
-      "dense_second": 12647,
-      "dense_ratio": 0.2311
+      "dense_second": 12649.619999999999,
+      "dense_ratio": 0.2312
     },
     {
       "file": "simulation_583d3a37_fadd20ad_annotation.json",
@@ -5705,7 +5705,7 @@
       "full_hour_min": "13:25",
       "Full_second": 48359,
       "dense_hour_min": "03:31",
-      "dense_second": 12678,
+      "dense_second": 12680.02,
       "dense_ratio": 0.2622
     },
     {
@@ -5720,8 +5720,8 @@
       "full_hour_min": "17:22",
       "Full_second": 62579,
       "dense_hour_min": "13:17",
-      "dense_second": 47844,
-      "dense_ratio": 0.7645
+      "dense_second": 47849.560000000005,
+      "dense_ratio": 0.7646
     },
     {
       "file": "simulation_f7b33604_db8cd1a6_annotation.json",
@@ -5735,7 +5735,7 @@
       "full_hour_min": "14:42",
       "Full_second": 52979,
       "dense_hour_min": "03:33",
-      "dense_second": 12783,
+      "dense_second": 12785.42,
       "dense_ratio": 0.2413
     },
     {
@@ -5749,9 +5749,9 @@
       "missing_uids": [],
       "full_hour_min": "15:45",
       "Full_second": 56759,
-      "dense_hour_min": "08:00",
-      "dense_second": 28857,
-      "dense_ratio": 0.5084
+      "dense_hour_min": "08:01",
+      "dense_second": 28861.239999999998,
+      "dense_ratio": 0.5085
     },
     {
       "file": "simulation_279abe55_e1afc522_annotation.json",
@@ -5765,8 +5765,8 @@
       "full_hour_min": "17:26",
       "Full_second": 62819,
       "dense_hour_min": "13:24",
-      "dense_second": 48279,
-      "dense_ratio": 0.7685
+      "dense_second": 48285.87,
+      "dense_ratio": 0.7687
     },
     {
       "file": "simulation_f7b33604_f6e2ea94_annotation.json",
@@ -5780,8 +5780,8 @@
       "full_hour_min": "16:54",
       "Full_second": 60899,
       "dense_hour_min": "08:03",
-      "dense_second": 28990,
-      "dense_ratio": 0.476
+      "dense_second": 28993.49,
+      "dense_ratio": 0.4761
     },
     {
       "file": "simulation_32f31f24_e7da0724_annotation.json",
@@ -5795,7 +5795,7 @@
       "full_hour_min": "14:30",
       "Full_second": 52259,
       "dense_hour_min": "08:05",
-      "dense_second": 29101,
+      "dense_second": 29104.03,
       "dense_ratio": 0.5569
     },
     {
@@ -5810,8 +5810,8 @@
       "full_hour_min": "16:14",
       "Full_second": 58499,
       "dense_hour_min": "13:30",
-      "dense_second": 48647,
-      "dense_ratio": 0.8316
+      "dense_second": 48652.189999999995,
+      "dense_ratio": 0.8317
     },
     {
       "file": "simulation_69c08687_8524b977_annotation.json",
@@ -5825,8 +5825,8 @@
       "full_hour_min": "15:37",
       "Full_second": 56279,
       "dense_hour_min": "08:11",
-      "dense_second": 29495,
-      "dense_ratio": 0.5241
+      "dense_second": 29499.22,
+      "dense_ratio": 0.5242
     },
     {
       "file": "simulation_f4c5d2ad_963d6c4c_annotation.json",
@@ -5840,8 +5840,8 @@
       "full_hour_min": "16:06",
       "Full_second": 58019,
       "dense_hour_min": "08:13",
-      "dense_second": 29609,
-      "dense_ratio": 0.5103
+      "dense_second": 29613.29,
+      "dense_ratio": 0.5104
     },
     {
       "file": "simulation_cd358fec_70b1d47c_annotation.json",
@@ -5855,8 +5855,8 @@
       "full_hour_min": "17:06",
       "Full_second": 61619,
       "dense_hour_min": "13:59",
-      "dense_second": 50363,
-      "dense_ratio": 0.8173
+      "dense_second": 50368.72,
+      "dense_ratio": 0.8174
     },
     {
       "file": "simulation_68aa5fbc_4671acd3_annotation.json",
@@ -5870,8 +5870,8 @@
       "full_hour_min": "15:39",
       "Full_second": 56399,
       "dense_hour_min": "08:24",
-      "dense_second": 30257,
-      "dense_ratio": 0.5365
+      "dense_second": 30261.95,
+      "dense_ratio": 0.5366
     },
     {
       "file": "simulation_7407ecfb_4c7a585b_annotation.json",
@@ -5885,8 +5885,8 @@
       "full_hour_min": "18:20",
       "Full_second": 66059,
       "dense_hour_min": "14:00",
-      "dense_second": 50441,
-      "dense_ratio": 0.7636
+      "dense_second": 50447.700000000004,
+      "dense_ratio": 0.7637
     },
     {
       "file": "simulation_c495023e_83bff118_annotation.json",
@@ -5900,8 +5900,8 @@
       "full_hour_min": "16:48",
       "Full_second": 60539,
       "dense_hour_min": "14:18",
-      "dense_second": 51501,
-      "dense_ratio": 0.8507
+      "dense_second": 51506.61999999999,
+      "dense_ratio": 0.8508
     },
     {
       "file": "simulation_15887bd4_3870e7d3_annotation.json",
@@ -5915,8 +5915,8 @@
       "full_hour_min": "14:03",
       "Full_second": 50639,
       "dense_hour_min": "03:49",
-      "dense_second": 13755,
-      "dense_ratio": 0.2716
+      "dense_second": 13756.18,
+      "dense_ratio": 0.2717
     },
     {
       "file": "simulation_aaa71ca0_3ed79ebe_annotation.json",
@@ -5930,8 +5930,8 @@
       "full_hour_min": "15:00",
       "Full_second": 54059,
       "dense_hour_min": "08:42",
-      "dense_second": 31355,
-      "dense_ratio": 0.58
+      "dense_second": 31360.350000000002,
+      "dense_ratio": 0.5801
     },
     {
       "file": "simulation_498d02ef_c692c986_annotation.json",
@@ -5945,8 +5945,8 @@
       "full_hour_min": "17:41",
       "Full_second": 63719,
       "dense_hour_min": "14:37",
-      "dense_second": 52639,
-      "dense_ratio": 0.8261
+      "dense_second": 52645.35,
+      "dense_ratio": 0.8262
     },
     {
       "file": "simulation_f4c5d2ad_7b05a8d8_annotation.json",
@@ -5960,8 +5960,8 @@
       "full_hour_min": "19:20",
       "Full_second": 69659,
       "dense_hour_min": "14:38",
-      "dense_second": 52725,
-      "dense_ratio": 0.7569
+      "dense_second": 52732.51,
+      "dense_ratio": 0.757
     },
     {
       "file": "simulation_5a38c5af_54977fd8_annotation.json",
@@ -5975,7 +5975,7 @@
       "full_hour_min": "15:41",
       "Full_second": 56519,
       "dense_hour_min": "08:50",
-      "dense_second": 31818,
+      "dense_second": 31820.19,
       "dense_ratio": 0.563
     },
     {
@@ -5990,8 +5990,8 @@
       "full_hour_min": "20:16",
       "Full_second": 73019,
       "dense_hour_min": "15:22",
-      "dense_second": 55373,
-      "dense_ratio": 0.7583
+      "dense_second": 55378.27,
+      "dense_ratio": 0.7584
     },
     {
       "file": "simulation_60362a09_02c6314f_annotation.json",
@@ -6005,7 +6005,7 @@
       "full_hour_min": "16:59",
       "Full_second": 61199,
       "dense_hour_min": "09:23",
-      "dense_second": 33818,
+      "dense_second": 33821.13,
       "dense_ratio": 0.5526
     },
     {
@@ -6020,7 +6020,7 @@
       "full_hour_min": "16:31",
       "Full_second": 59519,
       "dense_hour_min": "09:24",
-      "dense_second": 33841,
+      "dense_second": 33844.189999999995,
       "dense_ratio": 0.5686
     },
     {
@@ -6035,7 +6035,7 @@
       "full_hour_min": "14:19",
       "Full_second": 51599,
       "dense_hour_min": "04:13",
-      "dense_second": 15185,
+      "dense_second": 15186.27,
       "dense_ratio": 0.2943
     },
     {
@@ -6050,8 +6050,8 @@
       "full_hour_min": "16:02",
       "Full_second": 57779,
       "dense_hour_min": "09:35",
-      "dense_second": 34514,
-      "dense_ratio": 0.5973
+      "dense_second": 34515.85,
+      "dense_ratio": 0.5974
     },
     {
       "file": "simulation_c0a07292_be907534_annotation.json",
@@ -6065,8 +6065,8 @@
       "full_hour_min": "14:43",
       "Full_second": 53039,
       "dense_hour_min": "04:18",
-      "dense_second": 15531,
-      "dense_ratio": 0.2928
+      "dense_second": 15532.509999999998,
+      "dense_ratio": 0.2929
     },
     {
       "file": "simulation_c495023e_0750bc4f_annotation.json",
@@ -6080,8 +6080,8 @@
       "full_hour_min": "16:05",
       "Full_second": 57959,
       "dense_hour_min": "09:44",
-      "dense_second": 35041,
-      "dense_ratio": 0.6046
+      "dense_second": 35046.1,
+      "dense_ratio": 0.6047
     },
     {
       "file": "simulation_1f71abe9_09eba284_annotation.json",
@@ -6095,8 +6095,8 @@
       "full_hour_min": "19:37",
       "Full_second": 70679,
       "dense_hour_min": "16:23",
-      "dense_second": 59016,
-      "dense_ratio": 0.835
+      "dense_second": 59022.119999999995,
+      "dense_ratio": 0.8351
     },
     {
       "file": "simulation_498d02ef_d3200658_annotation.json",
@@ -6110,7 +6110,7 @@
       "full_hour_min": "13:10",
       "Full_second": 47459,
       "dense_hour_min": "04:29",
-      "dense_second": 16168,
+      "dense_second": 16169.05,
       "dense_ratio": 0.3407
     },
     {
@@ -6125,8 +6125,8 @@
       "full_hour_min": "13:59",
       "Full_second": 50399,
       "dense_hour_min": "10:17",
-      "dense_second": 37075,
-      "dense_ratio": 0.7356
+      "dense_second": 37078.45999999999,
+      "dense_ratio": 0.7357
     },
     {
       "file": "simulation_eb4645c4_ee5f367b_annotation.json",
@@ -6140,8 +6140,8 @@
       "full_hour_min": "13:42",
       "Full_second": 49379,
       "dense_hour_min": "10:18",
-      "dense_second": 37103,
-      "dense_ratio": 0.7514
+      "dense_second": 37107.79,
+      "dense_ratio": 0.7515
     },
     {
       "file": "simulation_b24f550e_85cb8ac3_annotation.json",
@@ -6154,9 +6154,9 @@
       "missing_uids": [],
       "full_hour_min": "15:19",
       "Full_second": 55199,
-      "dense_hour_min": "10:25",
-      "dense_second": 37558,
-      "dense_ratio": 0.6804
+      "dense_hour_min": "10:26",
+      "dense_second": 37561.479999999996,
+      "dense_ratio": 0.6805
     },
     {
       "file": "simulation_a4c1e5ad_122e39ef_annotation.json",
@@ -6170,8 +6170,8 @@
       "full_hour_min": "12:20",
       "Full_second": 44459,
       "dense_hour_min": "10:28",
-      "dense_second": 37720,
-      "dense_ratio": 0.8484
+      "dense_second": 37726.18,
+      "dense_ratio": 0.8486
     },
     {
       "file": "simulation_279abe55_ef79aa20_annotation.json",
@@ -6185,7 +6185,7 @@
       "full_hour_min": "15:47",
       "Full_second": 56879,
       "dense_hour_min": "04:40",
-      "dense_second": 16840,
+      "dense_second": 16842.68,
       "dense_ratio": 0.2961
     },
     {
@@ -6200,8 +6200,8 @@
       "full_hour_min": "16:46",
       "Full_second": 60419,
       "dense_hour_min": "10:36",
-      "dense_second": 38161,
-      "dense_ratio": 0.6316
+      "dense_second": 38164.31999999999,
+      "dense_ratio": 0.6317
     },
     {
       "file": "simulation_2195f3a6_584e6ac2_annotation.json",
@@ -6215,7 +6215,7 @@
       "full_hour_min": "14:52",
       "Full_second": 53579,
       "dense_hour_min": "04:45",
-      "dense_second": 17128,
+      "dense_second": 17129.46,
       "dense_ratio": 0.3197
     },
     {
@@ -6230,7 +6230,7 @@
       "full_hour_min": "14:52",
       "Full_second": 53579,
       "dense_hour_min": "04:52",
-      "dense_second": 17575,
+      "dense_second": 17576.37,
       "dense_ratio": 0.328
     },
     {
@@ -6245,7 +6245,7 @@
       "full_hour_min": "15:44",
       "Full_second": 56699,
       "dense_hour_min": "11:05",
-      "dense_second": 39915,
+      "dense_second": 39917.02,
       "dense_ratio": 0.704
     },
     {
@@ -6260,8 +6260,8 @@
       "full_hour_min": "15:44",
       "Full_second": 56699,
       "dense_hour_min": "05:11",
-      "dense_second": 18702,
-      "dense_ratio": 0.3298
+      "dense_second": 18704.09,
+      "dense_ratio": 0.3299
     },
     {
       "file": "simulation_b24f550e_e13fb07f_annotation.json",
@@ -6275,7 +6275,7 @@
       "full_hour_min": "15:12",
       "Full_second": 54779,
       "dense_hour_min": "05:16",
-      "dense_second": 18975,
+      "dense_second": 18976.32,
       "dense_ratio": 0.3464
     },
     {
@@ -6290,7 +6290,7 @@
       "full_hour_min": "15:21",
       "Full_second": 55319,
       "dense_hour_min": "05:17",
-      "dense_second": 19061,
+      "dense_second": 19063.04,
       "dense_ratio": 0.3446
     },
     {
@@ -6305,7 +6305,7 @@
       "full_hour_min": "14:21",
       "Full_second": 51719,
       "dense_hour_min": "11:55",
-      "dense_second": 42909,
+      "dense_second": 42913.219999999994,
       "dense_ratio": 0.8297
     },
     {
@@ -6320,7 +6320,7 @@
       "full_hour_min": "12:28",
       "Full_second": 44939,
       "dense_hour_min": "05:27",
-      "dense_second": 19642,
+      "dense_second": 19644.25,
       "dense_ratio": 0.4371
     },
     {
@@ -6335,8 +6335,8 @@
       "full_hour_min": "16:21",
       "Full_second": 58919,
       "dense_hour_min": "12:29",
-      "dense_second": 44979,
-      "dense_ratio": 0.7634
+      "dense_second": 44982.52,
+      "dense_ratio": 0.7635
     },
     {
       "file": "simulation_a091207d_08349484_annotation.json",
@@ -6350,8 +6350,8 @@
       "full_hour_min": "14:30",
       "Full_second": 52259,
       "dense_hour_min": "05:34",
-      "dense_second": 20080,
-      "dense_ratio": 0.3842
+      "dense_second": 20081.36,
+      "dense_ratio": 0.3843
     },
     {
       "file": "simulation_4e3b862d_33c03144_annotation.json",
@@ -6365,8 +6365,8 @@
       "full_hour_min": "18:09",
       "Full_second": 65399,
       "dense_hour_min": "12:40",
-      "dense_second": 45622,
-      "dense_ratio": 0.6976
+      "dense_second": 45626.24,
+      "dense_ratio": 0.6977
     },
     {
       "file": "simulation_69c08687_a7e16d1e_annotation.json",
@@ -6380,8 +6380,8 @@
       "full_hour_min": "12:09",
       "Full_second": 43799,
       "dense_hour_min": "05:53",
-      "dense_second": 21230,
-      "dense_ratio": 0.4847
+      "dense_second": 21232.32,
+      "dense_ratio": 0.4848
     },
     {
       "file": "simulation_c495023e_bc004a97_annotation.json",
@@ -6395,7 +6395,7 @@
       "full_hour_min": "15:01",
       "Full_second": 54119,
       "dense_hour_min": "05:54",
-      "dense_second": 21278,
+      "dense_second": 21278.99,
       "dense_ratio": 0.3932
     },
     {
@@ -6410,7 +6410,7 @@
       "full_hour_min": "13:47",
       "Full_second": 49679,
       "dense_hour_min": "06:04",
-      "dense_second": 21859,
+      "dense_second": 21860.510000000002,
       "dense_ratio": 0.44
     },
     {
@@ -6425,7 +6425,7 @@
       "full_hour_min": "12:26",
       "Full_second": 44819,
       "dense_hour_min": "06:15",
-      "dense_second": 22558,
+      "dense_second": 22558.829999999998,
       "dense_ratio": 0.5033
     },
     {
@@ -6440,7 +6440,7 @@
       "full_hour_min": "13:26",
       "Full_second": 48419,
       "dense_hour_min": "07:06",
-      "dense_second": 25592,
+      "dense_second": 25593.28,
       "dense_ratio": 0.5286
     },
     {
@@ -6455,8 +6455,8 @@
       "full_hour_min": "15:17",
       "Full_second": 55079,
       "dense_hour_min": "07:21",
-      "dense_second": 26512,
-      "dense_ratio": 0.4813
+      "dense_second": 26513.91,
+      "dense_ratio": 0.4814
     },
     {
       "file": "simulation_68aa5fbc_6c5e1ab0_annotation.json",
@@ -6470,7 +6470,7 @@
       "full_hour_min": "12:45",
       "Full_second": 45959,
       "dense_hour_min": "07:54",
-      "dense_second": 28442,
+      "dense_second": 28444.600000000002,
       "dense_ratio": 0.6189
     },
     {
@@ -6485,7 +6485,7 @@
       "full_hour_min": "15:57",
       "Full_second": 57479,
       "dense_hour_min": "09:39",
-      "dense_second": 34784,
+      "dense_second": 34785.28,
       "dense_ratio": 0.6052
     }
   ],

@@ -8,12 +8,12 @@ FULL_SCALE_DIR = Path(script.v_folder) #Path('/mnt/data/raw_data/Ego4d/v2/full_s
 UIDS = Path(os.path.dirname(__file__)) / 'video_uids.txt'
 LENS = {}
 
-def sec2hhmmss(total_sec: int) -> str:
+def sec2hhmmss(total_sec: float) -> str:
     """Convert total seconds to 'HH:MM:SS' string."""
     hours = total_sec // 3600
     minutes = (total_sec % 3600) // 60
     seconds = total_sec % 60
-    return f"{hours:02}:{minutes:02}:{seconds:02}"
+    return f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}.{str(seconds).split('.')[-1][:2]}"
 
 for uid in tqdm.tqdm(open(UIDS, 'r').read().splitlines()):
     video_path = FULL_SCALE_DIR / f"{uid}.mp4"
@@ -21,7 +21,7 @@ for uid in tqdm.tqdm(open(UIDS, 'r').read().splitlines()):
     vr = VideoReader(str(video_path), ctx=cpu(0))
     video_len = len(vr)
     fps = vr.get_avg_fps()
-    duration_sec = int(video_len / fps)
+    duration_sec = float(video_len / fps)
     LENS[uid] = sec2hhmmss(duration_sec)
     
 LEN_JSON = Path(os.path.dirname(__file__)) / 'video_len.json'
