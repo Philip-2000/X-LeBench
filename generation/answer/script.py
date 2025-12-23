@@ -1,9 +1,12 @@
-all_narration_path = "/mnt/data/raw_data/Ego4d/v2/annotations/narration.json"
-v_folder = "/mnt/data/raw_data/Ego4d/v2/full_scale"
-in_folder = "/mnt/data/raw_data/X-LeBench/simulation_annotation"
-out_folder = "/mnt/data/raw_data/X-LeBench/simulation_annotations" #"/home/yl/simulation_annotations"
-model_path = "/mnt/data/models/Qwen3-32B"
-
+import os
+from os.path import dirname, abspath, join as opj
+D = opj("/mnt", "data", "raw_data")
+all_narration_path = opj(D, "Ego4d", "v2", "annotations", "narration.json")
+v_folder = opj(D, "Ego4d", "v2", "full_scale")
+in_folder = opj(D, "X-LeBench", "simulation_annotation")
+clip_folder = opj(D, "X-LeBench", "video_clips")
+out_folder = opj(D, "X-LeBench", "simulation_annotations") #"/home/yl/simulation_annotations"
+model_path = opj("/mnt", "data", "models", "Qwen3-32B")
 
 if __name__ == '__main__':
     import sys,os
